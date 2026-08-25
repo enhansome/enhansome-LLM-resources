@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T19:36:22Z",
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 176068
+            "stars": 176075
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-25T04:14:37Z",
             "owner": "opendatalab",
             "repo": "MinerU",
-            "stars": 78420
+            "stars": 78422
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T18:32:39Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65501
+            "stars": 65504
           }
         },
         {
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 725205304,
             "language": "Python",
-            "last_commit": "2026-08-25T05:04:48Z",
+            "last_commit": "2026-08-25T05:42:19Z",
             "owner": "unslothai",
             "repo": "unsloth",
             "stars": 74649
@@ -663,7 +663,7 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-25T04:09:15Z",
+            "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
             "stars": 23116
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-17T10:24:35Z",
             "owner": "Lightning-AI",
             "repo": "litgpt",
-            "stars": 13625
+            "stars": 13626
           }
         },
         {
@@ -1023,10 +1023,10 @@
             "archived": false,
             "id": 1072725553,
             "language": "Python",
-            "last_commit": "2026-08-25T05:06:25Z",
+            "last_commit": "2026-08-25T05:41:28Z",
             "owner": "radixark",
             "repo": "miles",
-            "stars": 2237
+            "stars": 2238
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 987976055,
             "language": "Python",
-            "last_commit": "2026-08-25T04:42:20Z",
+            "last_commit": "2026-08-25T05:30:23Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Automodel",
             "stars": 862
@@ -1161,7 +1161,7 @@
             "last_commit": "2026-08-03T13:42:53Z",
             "owner": "agentscope-ai",
             "repo": "OpenJudge",
-            "stars": 797
+            "stars": 798
           }
         },
         {
@@ -1374,7 +1374,7 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-25T04:09:15Z",
+            "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
             "stars": 23116
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-08-25T03:40:52Z",
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 17746
+            "stars": 17748
           }
         },
         {
@@ -1404,10 +1404,10 @@
             "archived": false,
             "id": 1004140701,
             "language": "Python",
-            "last_commit": "2026-08-25T03:06:32Z",
+            "last_commit": "2026-08-25T05:32:57Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8237
+            "stars": 8236
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "archived": false,
             "id": 934553284,
             "language": "Python",
-            "last_commit": "2026-08-25T04:58:32Z",
+            "last_commit": "2026-08-25T05:33:39Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-rl",
             "stars": 1966
@@ -1473,7 +1473,7 @@
             "last_commit": "2026-08-25T03:23:29Z",
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 179365
+            "stars": 179368
           }
         },
         {
@@ -1488,7 +1488,7 @@
             "last_commit": "2026-08-25T01:15:56Z",
             "owner": "open-webui",
             "repo": "open-webui",
-            "stars": 149821
+            "stars": 149826
           }
         },
         {
@@ -1503,7 +1503,7 @@
             "last_commit": "2026-08-25T03:51:56Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144930
+            "stars": 144933
           }
         },
         {
@@ -1515,10 +1515,10 @@
             "archived": false,
             "id": 599547518,
             "language": "Python",
-            "last_commit": "2026-08-25T05:03:41Z",
+            "last_commit": "2026-08-25T05:39:05Z",
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 89926
+            "stars": 89929
           }
         },
         {
@@ -1530,10 +1530,10 @@
             "archived": false,
             "id": 643445235,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:01:47Z",
+            "last_commit": "2026-08-25T05:40:29Z",
             "owner": "lobehub",
             "repo": "lobehub",
-            "stars": 81977
+            "stars": 81976
           }
         },
         {
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-08-24T20:06:40Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63971
+            "stars": 63975
           }
         },
         {
@@ -1575,10 +1575,10 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-25T04:58:46Z",
+            "last_commit": "2026-08-25T05:29:16Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57189
+            "stars": 57190
           }
         },
         {
@@ -1608,7 +1608,7 @@
             "last_commit": "2026-08-24T21:24:35Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51854
+            "stars": 51855
           }
         },
         {
@@ -1620,10 +1620,10 @@
             "archived": false,
             "id": 805155266,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:07:11Z",
+            "last_commit": "2026-08-25T05:43:18Z",
             "owner": "CherryHQ",
             "repo": "cherry-studio",
-            "stars": 51017
+            "stars": 51020
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "archived": false,
             "id": 679506386,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:08:11Z",
+            "last_commit": "2026-08-25T05:43:52Z",
             "owner": "janhq",
             "repo": "jan",
             "stars": 44145
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-08-24T06:22:18Z",
             "owner": "lyogavin",
             "repo": "airllm",
-            "stars": 32453
+            "stars": 32455
           }
         },
         {
@@ -1695,10 +1695,10 @@
             "archived": false,
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-25T04:55:53Z",
+            "last_commit": "2026-08-25T05:29:27Z",
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32396
+            "stars": 32395
           }
         },
         {
@@ -1713,7 +1713,7 @@
             "last_commit": "2026-08-23T19:05:43Z",
             "owner": "letta-ai",
             "repo": "letta",
-            "stars": 24419
+            "stars": 24420
           }
         },
         {
@@ -1740,10 +1740,10 @@
             "archived": false,
             "id": 679366051,
             "language": "Python",
-            "last_commit": "2026-08-25T04:59:05Z",
+            "last_commit": "2026-08-25T05:43:45Z",
             "owner": "NVIDIA",
             "repo": "TensorRT-LLM",
-            "stars": 14469
+            "stars": 14470
           }
         },
         {
@@ -1863,7 +1863,7 @@
             "last_commit": "2026-08-24T23:44:02Z",
             "owner": "FlashML-org",
             "repo": "FreeToken",
-            "stars": 5879
+            "stars": 5956
           }
         },
         {
@@ -1935,7 +1935,7 @@
             "archived": false,
             "id": 1166182351,
             "language": "Python",
-            "last_commit": "2026-08-25T04:58:22Z",
+            "last_commit": "2026-08-25T05:41:48Z",
             "owner": "raullenchai",
             "repo": "Rapid-MLX",
             "stars": 3542
@@ -2013,7 +2013,7 @@
             "last_commit": "2026-08-25T04:56:36Z",
             "owner": "lightseekorg",
             "repo": "tokenspeed",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -2379,7 +2379,7 @@
             "last_commit": "2026-08-03T13:42:53Z",
             "owner": "agentscope-ai",
             "repo": "OpenJudge",
-            "stars": 797
+            "stars": 798
           }
         },
         {
@@ -2517,10 +2517,10 @@
             "archived": false,
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:04:39Z",
+            "last_commit": "2026-08-25T05:39:57Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153417
+            "stars": 153419
           }
         },
         {
@@ -2532,10 +2532,10 @@
             "archived": false,
             "id": 730534580,
             "language": "Go",
-            "last_commit": "2026-08-25T04:51:23Z",
+            "last_commit": "2026-08-25T05:35:29Z",
             "owner": "infiniflow",
             "repo": "ragflow",
-            "stars": 89183
+            "stars": 89186
           }
         },
         {
@@ -2550,7 +2550,7 @@
             "last_commit": "2026-08-25T01:25:22Z",
             "owner": "Mintplex-Labs",
             "repo": "anything-llm",
-            "stars": 65159
+            "stars": 65160
           }
         },
         {
@@ -2577,7 +2577,7 @@
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-24T20:52:01Z",
+            "last_commit": "2026-08-25T05:14:57Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
             "stars": 39154
@@ -2595,7 +2595,7 @@
             "last_commit": "2025-11-10T09:27:42Z",
             "owner": "chatchat-space",
             "repo": "Langchain-Chatchat",
-            "stars": 38578
+            "stars": 38577
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-08-24T18:30:25Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35663
+            "stars": 35662
           }
         },
         {
@@ -2622,10 +2622,10 @@
             "archived": false,
             "id": 605673387,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:06:07Z",
+            "last_commit": "2026-08-25T05:41:04Z",
             "owner": "labring",
             "repo": "FastGPT",
-            "stars": 29440
+            "stars": 29441
           }
         },
         {
@@ -2715,7 +2715,7 @@
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15458
+            "stars": 15459
           }
         },
         {
@@ -3036,7 +3036,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60613
+            "stars": 60614
           }
         },
         {
@@ -3051,7 +3051,7 @@
             "last_commit": "2026-08-22T07:53:07Z",
             "owner": "FoundationAgents",
             "repo": "OpenManus",
-            "stars": 58062
+            "stars": 58063
           }
         },
         {
@@ -3063,10 +3063,10 @@
             "archived": false,
             "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-25T03:19:07Z",
+            "last_commit": "2026-08-25T05:31:24Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57568
+            "stars": 57570
           }
         },
         {
@@ -3078,7 +3078,7 @@
             "archived": false,
             "id": 488641606,
             "language": "Python",
-            "last_commit": "2026-08-25T02:05:53Z",
+            "last_commit": "2026-08-25T05:09:43Z",
             "owner": "agno-agi",
             "repo": "agno",
             "stars": 41892
@@ -3111,7 +3111,7 @@
             "last_commit": "2026-08-25T02:47:10Z",
             "owner": "agentscope-ai",
             "repo": "agentscope",
-            "stars": 29497
+            "stars": 29499
           }
         },
         {
@@ -3126,7 +3126,7 @@
             "last_commit": "2026-08-25T02:47:10Z",
             "owner": "agentscope-ai",
             "repo": "agentscope",
-            "stars": 29497
+            "stars": 29499
           }
         },
         {
@@ -3141,7 +3141,7 @@
             "last_commit": "2026-08-22T12:10:32Z",
             "owner": "huggingface",
             "repo": "smolagents",
-            "stars": 28980
+            "stars": 28979
           }
         },
         {
@@ -3228,10 +3228,10 @@
             "archived": false,
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-25T05:06:26Z",
+            "last_commit": "2026-08-25T05:44:24Z",
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19485
+            "stars": 19486
           }
         },
         {
@@ -3246,7 +3246,7 @@
             "last_commit": "2026-08-25T00:39:01Z",
             "owner": "agent0ai",
             "repo": "agent-zero",
-            "stars": 18957
+            "stars": 18958
           }
         },
         {
@@ -3261,7 +3261,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17633
+            "stars": 17634
           }
         },
         {
@@ -3276,7 +3276,7 @@
             "last_commit": "2026-08-24T18:29:58Z",
             "owner": "rowboatlabs",
             "repo": "rowboat",
-            "stars": 17397
+            "stars": 17396
           }
         },
         {
@@ -3363,7 +3363,7 @@
             "archived": false,
             "id": 1060001762,
             "language": "Java",
-            "last_commit": "2026-08-25T04:23:50Z",
+            "last_commit": "2026-08-25T05:45:11Z",
             "owner": "iflytek",
             "repo": "astron-agent",
             "stars": 8947
@@ -3423,7 +3423,7 @@
             "archived": false,
             "id": 974157595,
             "language": "Python",
-            "last_commit": "2026-08-25T03:55:53Z",
+            "last_commit": "2026-08-25T05:16:00Z",
             "owner": "ModelEngine-Group",
             "repo": "nexent",
             "stars": 5834
@@ -3498,7 +3498,7 @@
             "archived": false,
             "id": 946278572,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:55:40Z",
+            "last_commit": "2026-08-25T05:29:47Z",
             "owner": "openagents-org",
             "repo": "openagents",
             "stars": 3998
@@ -3803,7 +3803,7 @@
                 "last_commit": "2026-08-21T12:35:08Z",
                 "owner": "deepseek-ai",
                 "repo": "deepseek-harness",
-                "stars": 192829
+                "stars": 192928
               }
             },
             {
@@ -3818,7 +3818,7 @@
                 "last_commit": "2026-08-24T22:53:19Z",
                 "owner": "earendil-works",
                 "repo": "pi",
-                "stars": 96785
+                "stars": 96801
               }
             },
             {
@@ -3845,7 +3845,7 @@
                 "archived": false,
                 "id": 1305383508,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T05:02:24Z",
+                "last_commit": "2026-08-25T05:43:38Z",
                 "owner": "Prism-Shadow",
                 "repo": "penguin-harness",
                 "stars": 1642
@@ -3860,10 +3860,10 @@
                 "archived": false,
                 "id": 1342461518,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:45:01Z",
+                "last_commit": "2026-08-25T05:40:43Z",
                 "owner": "ApodexAI",
                 "repo": "FrontierAgent",
-                "stars": 283
+                "stars": 305
               }
             }
           ],
@@ -3959,7 +3959,7 @@
                 "last_commit": "2026-08-24T14:59:13Z",
                 "owner": "hugohe3",
                 "repo": "ppt-master",
-                "stars": 49101
+                "stars": 49105
               }
             },
             {
@@ -3974,7 +3974,7 @@
                 "last_commit": "2026-08-07T03:58:08Z",
                 "owner": "op7418",
                 "repo": "guizang-ppt-skill",
-                "stars": 24794
+                "stars": 24798
               }
             },
             {
@@ -4004,7 +4004,7 @@
                 "last_commit": "2026-07-30T14:02:33Z",
                 "owner": "chuspeeism",
                 "repo": "dashi-ppt-skill",
-                "stars": 6175
+                "stars": 6179
               }
             },
             {
@@ -4034,7 +4034,7 @@
                 "last_commit": "2026-06-09T23:59:37Z",
                 "owner": "zarazhangrui",
                 "repo": "beautiful-html-templates",
-                "stars": 4340
+                "stars": 4341
               }
             },
             {
@@ -4049,7 +4049,7 @@
                 "last_commit": "2026-08-02T06:00:37Z",
                 "owner": "sligter",
                 "repo": "LandPPT",
-                "stars": 3567
+                "stars": 3568
               }
             },
             {
@@ -4101,7 +4101,7 @@
                 "last_commit": "2026-06-25T12:48:17Z",
                 "owner": "dwzhu-pku",
                 "repo": "PaperBanana",
-                "stars": 6982
+                "stars": 6983
               }
             },
             {
@@ -4146,7 +4146,7 @@
                 "last_commit": "2026-08-20T17:51:56Z",
                 "owner": "ChenLiu-1996",
                 "repo": "figures4papers",
-                "stars": 3906
+                "stars": 3910
               }
             },
             {
@@ -4161,7 +4161,7 @@
                 "last_commit": "2026-03-05T09:05:41Z",
                 "owner": "showlab",
                 "repo": "Paper2Video",
-                "stars": 2363
+                "stars": 2364
               }
             },
             {
@@ -4176,7 +4176,7 @@
                 "last_commit": "2026-03-27T03:01:07Z",
                 "owner": "LigphiDonk",
                 "repo": "academic-figure-generator",
-                "stars": 2177
+                "stars": 2178
               }
             },
             {
@@ -4394,7 +4394,7 @@
                 "last_commit": "2026-03-26T00:07:37Z",
                 "owner": "karpathy",
                 "repo": "autoresearch",
-                "stars": 94630
+                "stars": 94628
               }
             },
             {
@@ -4409,7 +4409,7 @@
                 "last_commit": "2026-08-24T10:04:28Z",
                 "owner": "Imbad0202",
                 "repo": "academic-research-skills",
-                "stars": 43594
+                "stars": 43596
               }
             },
             {
@@ -4424,7 +4424,7 @@
                 "last_commit": "2026-08-24T09:22:55Z",
                 "owner": "K-Dense-AI",
                 "repo": "scientific-agent-skills",
-                "stars": 34333
+                "stars": 34337
               }
             },
             {
@@ -4439,7 +4439,7 @@
                 "last_commit": "2026-08-24T04:19:41Z",
                 "owner": "wanshuiyin",
                 "repo": "Auto-claude-code-research-in-sleep",
-                "stars": 15124
+                "stars": 15129
               }
             },
             {
@@ -4454,7 +4454,7 @@
                 "last_commit": "2026-08-04T11:50:56Z",
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14330
+                "stars": 14331
               }
             },
             {
@@ -4469,7 +4469,7 @@
                 "last_commit": "2026-08-19T03:35:13Z",
                 "owner": "aiming-lab",
                 "repo": "AutoResearchClaw",
-                "stars": 14194
+                "stars": 14195
               }
             },
             {
@@ -4717,10 +4717,10 @@
             "archived": false,
             "id": 975734319,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:04:12Z",
+            "last_commit": "2026-08-25T05:44:34Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 201104
+            "stars": 201116
           }
         },
         {
@@ -4735,7 +4735,7 @@
             "last_commit": "2026-08-21T12:35:08Z",
             "owner": "deepseek-ai",
             "repo": "deepseek-harness",
-            "stars": 192829
+            "stars": 192928
           }
         },
         {
@@ -4747,10 +4747,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-25T03:38:22Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142908
+            "stars": 142911
           }
         },
         {
@@ -4762,10 +4762,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-25T03:38:22Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142908
+            "stars": 142911
           }
         },
         {
@@ -4777,10 +4777,10 @@
             "archived": false,
             "id": 965415649,
             "language": "Rust",
-            "last_commit": "2026-08-25T04:38:11Z",
+            "last_commit": "2026-08-25T05:37:13Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 117370
+            "stars": 117401
           }
         },
         {
@@ -4795,7 +4795,7 @@
             "last_commit": "2026-08-25T02:02:13Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106670
+            "stars": 106671
           }
         },
         {
@@ -4807,10 +4807,10 @@
             "archived": false,
             "id": 824874689,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:55:01Z",
+            "last_commit": "2026-08-25T05:36:27Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66801
+            "stars": 66803
           }
         },
         {
@@ -4822,10 +4822,10 @@
             "archived": false,
             "id": 1133707766,
             "language": "Go",
-            "last_commit": "2026-08-25T05:07:21Z",
+            "last_commit": "2026-08-25T05:17:31Z",
             "owner": "multica-ai",
             "repo": "multica",
-            "stars": 47555
+            "stars": 47559
           }
         },
         {
@@ -4840,7 +4840,7 @@
             "last_commit": "2026-08-20T06:51:15Z",
             "owner": "oraios",
             "repo": "serena",
-            "stars": 28463
+            "stars": 28465
           }
         },
         {
@@ -4855,7 +4855,7 @@
             "last_commit": "2026-08-24T20:28:57Z",
             "owner": "Kilo-Org",
             "repo": "kilocode",
-            "stars": 27008
+            "stars": 27011
           }
         },
         {
@@ -4885,7 +4885,7 @@
             "last_commit": "2025-10-16T12:05:56Z",
             "owner": "winfunc",
             "repo": "opcode",
-            "stars": 22389
+            "stars": 22388
           }
         },
         {
@@ -5208,7 +5208,7 @@
                 "last_commit": "2026-08-24T03:42:17Z",
                 "owner": "jd-opensource",
                 "repo": "JoyAI-Echo",
-                "stars": 1878
+                "stars": 1880
               }
             },
             {
@@ -5294,7 +5294,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/huggingface/diffusers",
+              "title": "huggingface/diffusers",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5324,7 +5324,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/hao-ai-lab/FastVideo",
+              "title": "hao-ai-lab/FastVideo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5339,7 +5339,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/bghira/SimpleTuner",
+              "title": "bghira/SimpleTuner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5354,7 +5354,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/tdrussell/diffusion-pipe",
+              "title": "tdrussell/diffusion-pipe",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5369,7 +5369,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/kohya-ss/musubi-tuner",
+              "title": "kohya-ss/musubi-tuner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5384,7 +5384,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/shengshu-ai/minWM",
+              "title": "shengshu-ai/minWM",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5399,7 +5399,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/X-GenGroup/Flow-Factory",
+              "title": "X-GenGroup/Flow-Factory",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5414,7 +5414,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/VideoVerses/VideoTuna",
+              "title": "VideoVerses/VideoTuna",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5429,7 +5429,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/spacepxl/HunyuanVideo-Training",
+              "title": "spacepxl/HunyuanVideo-Training",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5444,7 +5444,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Tele-AI/TeleTron",
+              "title": "Tele-AI/TeleTron",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5459,7 +5459,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/Yaofang-Liu/Mochi-Full-Finetuner",
+              "title": "Yaofang-Liu/Mochi-Full-Finetuner",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5481,7 +5481,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/thu-ml/TurboDiffusion",
+              "title": "thu-ml/TurboDiffusion",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5496,7 +5496,7 @@
             },
             {
               "node_type": "item",
-              "title": "https://github.com/ModelTC/LightX2V",
+              "title": "ModelTC/LightX2V",
               "description": null,
               "children": [],
               "repo_info": {
@@ -5586,7 +5586,7 @@
                 "last_commit": "2025-12-12T19:38:04Z",
                 "owner": "PicoTrex",
                 "repo": "Awesome-Nano-Banana-images",
-                "stars": 23562
+                "stars": 23563
               }
             },
             {
@@ -5616,7 +5616,7 @@
                 "last_commit": "2026-08-25T04:03:52Z",
                 "owner": "OpenSenseNova",
                 "repo": "SenseNova-U1",
-                "stars": 5564
+                "stars": 5567
               }
             },
             {
@@ -6068,7 +6068,7 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37276
+                "stars": 37275
               }
             },
             {
@@ -6083,7 +6083,7 @@
                 "last_commit": "2026-08-12T14:14:37Z",
                 "owner": "OpenBMB",
                 "repo": "VoxCPM",
-                "stars": 36079
+                "stars": 36081
               }
             },
             {
@@ -6098,7 +6098,7 @@
                 "last_commit": "2026-08-22T08:55:50Z",
                 "owner": "fishaudio",
                 "repo": "fish-speech",
-                "stars": 32369
+                "stars": 32370
               }
             },
             {
@@ -6113,7 +6113,7 @@
                 "last_commit": "2026-08-18T06:52:28Z",
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 23442
+                "stars": 23444
               }
             },
             {
@@ -6128,7 +6128,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22900
+                "stars": 22901
               }
             },
             {
@@ -6188,7 +6188,7 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11792
+                "stars": 11793
               }
             },
             {
@@ -6248,7 +6248,7 @@
                 "last_commit": "2026-06-05T04:01:06Z",
                 "owner": "boson-ai",
                 "repo": "higgs-audio",
-                "stars": 8322
+                "stars": 8321
               }
             },
             {
@@ -6420,7 +6420,7 @@
                 "last_commit": "2026-07-28T20:18:29Z",
                 "owner": "openai",
                 "repo": "whisper",
-                "stars": 107897
+                "stars": 107898
               }
             },
             {
@@ -6435,7 +6435,7 @@
                 "last_commit": "2026-08-24T14:38:23Z",
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20003
+                "stars": 20004
               }
             },
             {
@@ -6553,7 +6553,7 @@
                 "last_commit": "2026-08-25T03:29:39Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11612
+                "stars": 11613
               }
             },
             {
@@ -7153,7 +7153,7 @@
             "last_commit": "2026-08-24T13:50:37Z",
             "owner": "rasbt",
             "repo": "LLMs-from-scratch",
-            "stars": 103704
+            "stars": 103709
           }
         },
         {
@@ -7168,7 +7168,7 @@
             "last_commit": "2026-08-18T06:51:35Z",
             "owner": "datawhalechina",
             "repo": "hello-agents",
-            "stars": 74610
+            "stars": 74616
           }
         },
         {
@@ -7198,7 +7198,7 @@
             "last_commit": "2026-04-24T10:20:08Z",
             "owner": "HandsOnLLM",
             "repo": "Hands-On-Large-Language-Models",
-            "stars": 28579
+            "stars": 28580
           }
         },
         {
@@ -7213,7 +7213,7 @@
             "last_commit": "2025-12-12T01:55:18Z",
             "owner": "ZJU-LLMs",
             "repo": "Foundations-of-LLMs",
-            "stars": 17347
+            "stars": 17362
           }
         },
         {
@@ -7309,7 +7309,7 @@
             "last_commit": "2026-08-20T03:43:12Z",
             "owner": "microsoft",
             "repo": "generative-ai-for-beginners",
-            "stars": 118499
+            "stars": 118500
           }
         },
         {
@@ -7354,7 +7354,7 @@
             "last_commit": "2026-08-02T21:05:23Z",
             "owner": "karpathy",
             "repo": "nanochat",
-            "stars": 57487
+            "stars": 57489
           }
         },
         {
@@ -7444,7 +7444,7 @@
             "last_commit": "2026-03-08T23:41:57Z",
             "owner": "karminski",
             "repo": "one-small-step",
-            "stars": 6983
+            "stars": 6984
           }
         },
         {
@@ -7777,7 +7777,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92760
+            "stars": 92763
           }
         },
         {
@@ -7792,7 +7792,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89831
+            "stars": 89833
           }
         },
         {
@@ -7807,7 +7807,7 @@
             "last_commit": "2026-08-25T03:15:38Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27364
+            "stars": 27367
           }
         },
         {
@@ -7822,7 +7822,7 @@
             "last_commit": "2025-11-24T14:51:54Z",
             "owner": "tadata-org",
             "repo": "fastapi_mcp",
-            "stars": 11986
+            "stars": 11985
           }
         },
         {
@@ -7888,7 +7888,7 @@
             "last_commit": "2026-08-21T17:10:55Z",
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 171416
+            "stars": 171422
           }
         },
         {
@@ -7903,7 +7903,7 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73187
+            "stars": 73189
           }
         },
         {
@@ -7933,7 +7933,7 @@
             "last_commit": "2026-08-24T09:22:55Z",
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 34333
+            "stars": 34337
           }
         },
         {
@@ -7948,7 +7948,7 @@
             "last_commit": "2026-08-24T06:19:36Z",
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 32001
+            "stars": 32017
           }
         },
         {
@@ -8019,7 +8019,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/huggingface/open-r1",
+          "title": "huggingface/open-r1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8034,7 +8034,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/richards199999/Thinking-Claude",
+          "title": "richards199999/Thinking-Claude",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8049,7 +8049,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Jiayi-Pan/TinyZero",
+          "title": "Jiayi-Pan/TinyZero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8064,7 +8064,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hijkzzz/Awesome-LLM-Strawberry",
+          "title": "hijkzzz/Awesome-LLM-Strawberry",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8079,7 +8079,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/simplescaling/s1",
+          "title": "simplescaling/s1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8094,7 +8094,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/om-ai-lab/VLM-R1",
+          "title": "om-ai-lab/VLM-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8109,7 +8109,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/agentica-project/deepscaler",
+          "title": "rllm-org/rllm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8124,7 +8124,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/inclusionAI/AReaL",
+          "title": "areal-project/AReaL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8139,7 +8139,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PeterGriffinJin/Search-R1",
+          "title": "PeterGriffinJin/Search-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8154,7 +8154,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hiyouga/EasyR1",
+          "title": "hiyouga/EasyR1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8169,7 +8169,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OpenManus/OpenManus-RL",
+          "title": "OpenManus/OpenManus-RL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8184,7 +8184,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Deep-Agent/R1-V",
+          "title": "StarsfieldAI/R1-V",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8199,7 +8199,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hkust-nlp/simpleRL-reason",
+          "title": "hkust-nlp/simpleRL-reason",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8214,7 +8214,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hkust-nlp/simpleRL-reason",
+          "title": "hkust-nlp/simpleRL-reason",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8229,7 +8229,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/atfortes/Awesome-LLM-Reasoning",
+          "title": "atfortes/Awesome-LLM-Reasoning",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8244,7 +8244,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SkyworkAI/Skywork-R1V",
+          "title": "SkyworkAI/Skywork-R1V",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8259,7 +8259,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ZihanWang314/RAGEN",
+          "title": "mll-lab-nu/RAGEN",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8274,7 +8274,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RAGEN-AI/RAGEN",
+          "title": "mll-lab-nu/RAGEN",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8289,7 +8289,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ninehills/blog/issues/121",
+          "title": "ninehills/blog",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8304,7 +8304,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Unakar/Logic-RL",
+          "title": "Unakar/Logic-RL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8319,7 +8319,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/open-thoughts/open-thoughts",
+          "title": "open-thoughts/open-thoughts",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8334,7 +8334,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/XiaomiMiMo/MiMo",
+          "title": "XiaomiMiMo/MiMo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8349,7 +8349,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Liuziyu77/Visual-RFT",
+          "title": "Liuziyu77/Visual-RFT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8364,7 +8364,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero",
+          "title": "Open-Reasoner-Zero/Open-Reasoner-Zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8379,7 +8379,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GAIR-NLP/O1-Journey",
+          "title": "GAIR-NLP/O1-Journey",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8394,7 +8394,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/policy-gradient/GRPO-Zero",
+          "title": "policy-gradient/GRPO-Zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8424,7 +8424,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lsdefine/simple_GRPO",
+          "title": "lsdefine/simple_GRPO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8439,7 +8439,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lsdefine/simple_GRPO",
+          "title": "lsdefine/simple_GRPO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8454,7 +8454,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/0russwest0/Agent-R1",
+          "title": "AgentR1/Agent-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8469,7 +8469,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/EvolvingLMMs-Lab/open-r1-multimodal",
+          "title": "EvolvingLMMs-Lab/open-r1-multimodal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8484,7 +8484,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Osilly/Vision-R1",
+          "title": "Osilly/Vision-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8499,7 +8499,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OpenSource-O1/Open-O1",
+          "title": "Open-Source-O1/Open-O1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8514,7 +8514,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sail-sg/understand-r1-zero",
+          "title": "sail-sg/understand-r1-zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8529,7 +8529,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MoonshotAI/Kimi-VL",
+          "title": "MoonshotAI/Kimi-VL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8544,7 +8544,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/srush/awesome-o1",
+          "title": "srush/awesome-o1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8559,7 +8559,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GAIR-NLP/LIMO",
+          "title": "GAIR-NLP/LIMO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8574,7 +8574,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/HumanMLLM/R1-Omni",
+          "title": "HumanMLLM/R1-Omni",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8589,7 +8589,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tulerfeng/Video-R1",
+          "title": "tulerfeng/Video-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8604,7 +8604,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/open-thought/system-2-research",
+          "title": "open-thought/system-2-research",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8619,7 +8619,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TideDra/lmm-r1",
+          "title": "TideDra/lmm-r1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8634,7 +8634,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dhcode-cpp/X-R1",
+          "title": "dhcode-cpp/X-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8649,7 +8649,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SUFE-AIFLM-Lab/Fin-R1",
+          "title": "SUFE-AIFLM-Lab/Fin-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8664,7 +8664,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ByteDance-Seed/Seed-Thinking-v1.5",
+          "title": "ByteDance-Seed/Seed-Thinking-v1.5",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8679,7 +8679,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SimpleBerry/LLaMA-O1",
+          "title": "SimpleBerry/LLaMA-O1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8694,7 +8694,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ModalMinds/MM-EUREKA",
+          "title": "ModalMinds/MM-EUREKA",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8709,7 +8709,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RUCAIBox/Slow_Thinking_with_LLMs",
+          "title": "RUCAIBox/Slow_Thinking_with_LLMs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8724,7 +8724,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SkyworkAI/Skywork-OR1",
+          "title": "SkyworkAI/Skywork-OR1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8739,7 +8739,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/datawhalechina/unlock-deepseek",
+          "title": "datawhalechina/unlock-deepseek",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8754,7 +8754,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/facebookresearch/swe-rl",
+          "title": "facebookresearch/swe-rl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8769,7 +8769,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dvlab-research/Seg-Zero",
+          "title": "JIA-Lab-research/Seg-Zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8784,7 +8784,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/McGill-NLP/nano-aha-moment",
+          "title": "McGill-NLP/nano-aha-moment",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8799,7 +8799,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/turningpoint-ai/VisualThinker-R1-Zero",
+          "title": "turningpoint-ai/VisualThinker-R1-Zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8814,7 +8814,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aliyun/qwen-dianjin",
+          "title": "aliyun/qwen-dianjin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8829,7 +8829,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Fancy-MLLM/R1-Onevision",
+          "title": "Fancy-MLLM/R1-Onevision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8844,7 +8844,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jiangxinke/Agentic-RAG-R1",
+          "title": "jiangxinke/Agentic-RAG-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8859,7 +8859,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/LG-AI-EXAONE/EXAONE-Deep",
+          "title": "LG-AI-EXAONE/EXAONE-Deep",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8874,7 +8874,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Wang-Xiaodong1899/Open-R1-Video",
+          "title": "Wang-Xiaodong1899/Open-R1-Video",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8889,7 +8889,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/shangshang-wang/Tina",
+          "title": "shangshang-wang/Tina",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8904,7 +8904,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/FanqingM/R1-Multimodal-Journey",
+          "title": "FanqingM/MM-Eureka-V0",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8919,7 +8919,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/linkangheng/PR1",
+          "title": "linkangheng/PR1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8934,7 +8934,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OpenGVLab/VideoChat-R1",
+          "title": "OpenGVLab/VideoChat-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8949,7 +8949,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/FlagAI-Open/OpenSeek",
+          "title": "FlagAI-Open/OpenSeek",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8964,7 +8964,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lucasjinreal/Namo-R1",
+          "title": "lucasjinreal/Namo-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8979,7 +8979,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sail-sg/oat-zero",
+          "title": "sail-sg/oat-zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -8994,7 +8994,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/brendanhogan/DeepSeekRL-Extended",
+          "title": "brendanhogan/DeepSeekRL-Extended",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9024,7 +9024,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey",
+          "title": "wjn1996/Awesome-LLM-Reasoning-Openai-o1-Survey",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9039,7 +9039,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/baichuan-inc/Baichuan-M1-14B",
+          "title": "baichuan-inc/Baichuan-M1-14B",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9054,7 +9054,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/LengSicong/MMR1",
+          "title": "LengSicong/MMR1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9069,7 +9069,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/CSfufu/Revisual-R1",
+          "title": "CSfufu/Revisual-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9084,7 +9084,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/pseudotensor/open-strawberry",
+          "title": "pseudotensor/open-strawberry",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9099,7 +9099,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yuanzhoulvpi2017/nano_rl",
+          "title": "yuanzhoulvpi2017/nano_rl",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9114,7 +9114,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/lzhxmu/CPPO",
+          "title": "lzhxmu/CPPO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9129,7 +9129,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Mohammadjafari80/GSM8K-RLVR",
+          "title": "Mohammadjafari80/GSM8K-RLVR",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9144,7 +9144,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ADaM-BJTU/OpenRFT",
+          "title": "ADaM-BJTU/OpenRFT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9159,7 +9159,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/joey00072/nanoGRPO",
+          "title": "joey00072/nanoGRPO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9174,7 +9174,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RifleZhang/LLaVA-Reasoner-DPO",
+          "title": "RifleZhang/LLaVA-Reasoner-DPO",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9189,7 +9189,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ZhangXJ199/TinyLLaVA-Video-R1",
+          "title": "ZhangXJ199/TinyLLaVA-Video-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9204,7 +9204,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TencentARC/SEED-Bench-R1",
+          "title": "TencentARC/SEED-Bench-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9219,7 +9219,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jackfsuia/nanoRLHF/tree/main/examples/r1-v0",
+          "title": "jackfsuia/nanoRLHF",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9234,7 +9234,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SkyworkAI/skywork-o1-prm-inference",
+          "title": "SkyworkAI/skywork-o1-prm-inference",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9249,7 +9249,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/qiufengqijun/open-r1-reprod",
+          "title": "qiufengqijun/open-r1-reprod",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9264,7 +9264,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/appletea233/Temporal-R1",
+          "title": "appletea233/Temporal-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9279,7 +9279,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yuyq96/R1-Vision",
+          "title": "yuyq96/R1-Vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9294,7 +9294,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ShadeCloak/ADORA",
+          "title": "ShadeCloak/ADORA",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9309,7 +9309,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/StarRing2022/R1-Nature",
+          "title": "StarRing2022/R1-Nature",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9324,7 +9324,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wizardlancet/diagnosis_zero",
+          "title": "wizardlancet/diagnosis_zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9339,7 +9339,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/VLM-RL/Ocean-R1",
+          "title": "VLM-RL/Ocean-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9354,7 +9354,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Zeyi-Lin/easy-r1",
+          "title": "Zeyi-Lin/easy-r1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9369,7 +9369,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sungatetop/deepseek-r1-vision",
+          "title": "sungatetop/deepseek-r1-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9384,7 +9384,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Jaimboh/Llamaberry-Chain-of-Thought-Reasoning-in-AI",
+          "title": "Jaimboh/Llamaberry-Chain-of-Thought-Reasoning-in-AI",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9399,7 +9399,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/phonism/CP-Zero",
+          "title": "phonism/CP-Zero",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9414,7 +9414,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MetabrainAGI/Awaker2.5-R1",
+          "title": "MetabrainAGI/Awaker2.5-R1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9429,7 +9429,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bklieger-groq/g1",
+          "title": "bklieger-groq/g1",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9444,7 +9444,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SwanHubX/ascend_r1_turtorial",
+          "title": "ShaohonChen/ascend_r1_turtorial",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9465,7 +9465,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/jingyaogong/minimind",
+          "title": "jingyaogong/minimind",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9475,12 +9475,12 @@
             "last_commit": "2026-08-21T08:49:07Z",
             "owner": "jingyaogong",
             "repo": "minimind",
-            "stars": 54980
+            "stars": 54981
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jzhang38/TinyLlama",
+          "title": "jzhang38/TinyLlama",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9495,7 +9495,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/allenai/OLMo",
+          "title": "allenai/OLMo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9510,7 +9510,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/skyzh/tiny-llm",
+          "title": "skyzh/tiny-llm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9525,7 +9525,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/DLLXW/baby-llama2-chinese",
+          "title": "DLLXW/baby-llama2-chinese",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9540,7 +9540,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/qibin0506/Cortex",
+          "title": "qibin0506/Cortex",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9555,7 +9555,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/huggingface/picotron",
+          "title": "huggingface/picotron",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9570,7 +9570,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/charent/ChatLM-mini-Chinese",
+          "title": "charent/ChatLM-mini-Chinese",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9585,7 +9585,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Om-Alve/smolGPT",
+          "title": "Om-Alve/smolGPT",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9600,7 +9600,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wdndev/tiny-llm-zh",
+          "title": "wdndev/tiny-llm-zh",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9615,7 +9615,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/zhanshijinwat/Steel-LLM",
+          "title": "zhanshijinwat/Steel-LLM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9630,7 +9630,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/charent/Phi2-mini-Chinese",
+          "title": "charent/Phi2-mini-Chinese",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9645,7 +9645,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/stepfun-ai/SteptronOss",
+          "title": "stepfun-ai/SteptronOss",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9660,7 +9660,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Tongjilibo/build_MiniLLM_from_scratch",
+          "title": "Tongjilibo/build_MiniLLM_from_scratch",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9675,7 +9675,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jiahe7ay/MINI_LLM",
+          "title": "jiahe7ay/MINI_LLM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9690,7 +9690,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/huggingface/nanowhale",
+          "title": "huggingface/nanowhale",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9705,7 +9705,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Pints-AI/1.5-Pints",
+          "title": "Pints-AI/1.5-Pints",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9720,7 +9720,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/OpenBMB/ForgeTrain",
+          "title": "OpenBMB/ForgeTrain",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9735,7 +9735,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AI-Study-Han/Zero-Chatgpt",
+          "title": "AI-Study-Han/Zero-Chatgpt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9750,7 +9750,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Chinese-Tiny-LLM/Chinese-Tiny-LLM",
+          "title": "Chinese-Tiny-LLM/Chinese-Tiny-LLM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9765,7 +9765,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/RUC-GSAI/YuLan-Mini",
+          "title": "RUC-GSAI/YuLan-Mini",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9780,7 +9780,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/keeeeenw/MicroLlama",
+          "title": "keeeeenw/MicroLlama",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9795,7 +9795,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Alic-Li/Mini_RWKV_7",
+          "title": "Alic-Li/Mini_RWKV_7",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9810,7 +9810,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/loubnabnl/nanotron-smol-cluster",
+          "title": "loubnabnl/nanotron-smol-cluster",
           "description": "(使用Cosmopedia训练cosmo-1b)",
           "children": [],
           "repo_info": {
@@ -9825,7 +9825,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/leeguandong/MiniLLaMA3",
+          "title": "leeguandong/MiniLLaMA3",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9846,7 +9846,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/GeeeekExplorer/nano-vllm",
+          "title": "GeeeekExplorer/nano-vllm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9856,12 +9856,12 @@
             "last_commit": "2026-04-26T05:10:12Z",
             "owner": "GeeeekExplorer",
             "repo": "nano-vllm",
-            "stars": 15130
+            "stars": 15132
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jingyaogong/minimind-v",
+          "title": "jingyaogong/minimind-v",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9876,7 +9876,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/huggingface/nanoVLM",
+          "title": "huggingface/nanoVLM",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9891,7 +9891,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava",
+          "title": "yuanzhoulvpi2017/zero_nlp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9906,7 +9906,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jingyaogong/minimind-o",
+          "title": "jingyaogong/minimind-o",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9916,12 +9916,12 @@
             "last_commit": "2026-08-06T14:08:34Z",
             "owner": "jingyaogong",
             "repo": "minimind-o",
-            "stars": 2371
+            "stars": 2370
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/merveenoyan/smol-vision",
+          "title": "merveenoyan/smol-vision",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9936,7 +9936,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TinyLLaVA/TinyLLaVA_Factory",
+          "title": "TinyLLaVA/TinyLLaVA_Factory",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9951,7 +9951,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Coobiw/MPP-LLaVA",
+          "title": "Coobiw/MPP-LLaVA",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9966,7 +9966,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Emericen/tiny-qwen",
+          "title": "Emericen/tiny-qwen",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9981,7 +9981,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Victorwz/Open-Qwen2VL",
+          "title": "Victorwz/Open-Qwen2VL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -9996,7 +9996,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ZhangXJ199/TinyLLaVA-Video",
+          "title": "ZhangXJ199/TinyLLaVA-Video",
           "description": null,
           "children": [],
           "repo_info": {
@@ -10011,7 +10011,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ritabratamaiti/AnyModal",
+          "title": "ritabratamaiti/AnyModal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -10026,7 +10026,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AI-Study-Han/Zero-Qwen-VL",
+          "title": "AI-Study-Han/Zero-Qwen-VL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -10041,7 +10041,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/qnguyen3/nanoLLaVA",
+          "title": "qnguyen3/nanoLLaVA",
           "description": null,
           "children": [],
           "repo_info": {
@@ -10056,7 +10056,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yujunhuics/Reyes",
+          "title": "yujunhuics/Reyes",
           "description": null,
           "children": [],
           "repo_info": {
@@ -10087,7 +10087,7 @@
             "last_commit": "2026-08-21T08:49:07Z",
             "owner": "jingyaogong",
             "repo": "minimind",
-            "stars": 54980
+            "stars": 54981
           }
         },
         {
@@ -10260,7 +10260,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:08:47.878Z",
+    "last_updated": "2026-08-25T05:45:07.465Z",
     "original_repository": "WangRongsheng/awesome-LLM-resources",
     "original_repository_id": 788768107,
     "original_repository_sha": "d696cbac8fd82aa1544f933c933689a73abc3e50",
