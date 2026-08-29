@@ -91,32 +91,32 @@
 >
 > 此处命名为`数据`，但这里并没有提供具体数据集，而是提供了处理获取大规模数据的方法
 
-1. [MarkItDown](https://github.com/microsoft/markitdown) ⭐ 176,819 | 🐛 903 | 🌐 Python | 📅 2026-08-19: Python tool for converting files and office documents to Markdown.
-2. [MinerU (`🔥`)](https://github.com/opendatalab/MinerU) ⭐ 78,686 | 🐛 104 | 🌐 Python | 📅 2026-08-28: MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.
-3. [Docling](https://github.com/DS4SD/docling) ⭐ 65,699 | 🐛 978 | 🌐 Python | 📅 2026-08-28: Get your documents ready for gen AI.
-4. [olmOCR](https://github.com/allenai/olmocr) ⭐ 19,399 | 🐛 88 | 🌐 Python | 📅 2026-03-25: A toolkit for training language models to work with PDF documents in the wild.
-5. [Easy Dataset (`🔥`)](https://github.com/ConardLi/easy-dataset) ⭐ 14,846 | 🐛 127 | 🌐 JavaScript | 📅 2026-05-01: A powerful tool for creating fine-tuning datasets for LLM.
+1. [MarkItDown](https://github.com/microsoft/markitdown) ⭐ 176,867 | 🐛 903 | 🌐 Python | 📅 2026-08-19: Python tool for converting files and office documents to Markdown.
+2. [MinerU (`🔥`)](https://github.com/opendatalab/MinerU) ⭐ 78,698 | 🐛 104 | 🌐 Python | 📅 2026-08-28: MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.
+3. [Docling](https://github.com/DS4SD/docling) ⭐ 65,707 | 🐛 979 | 🌐 Python | 📅 2026-08-28: Get your documents ready for gen AI.
+4. [olmOCR](https://github.com/allenai/olmocr) ⭐ 19,399 | 🐛 89 | 🌐 Python | 📅 2026-03-25: A toolkit for training language models to work with PDF documents in the wild.
+5. [Easy Dataset (`🔥`)](https://github.com/ConardLi/easy-dataset) ⭐ 14,849 | 🐛 127 | 🌐 JavaScript | 📅 2026-05-01: A powerful tool for creating fine-tuning datasets for LLM.
 6. [Zerox](https://github.com/getomni-ai/zerox) ⭐ 12,265 | 🐛 91 | 🌐 TypeScript | 📅 2025-05-20: Zero shot pdf OCR with gpt-4o-mini.
-7. [Chandra](https://github.com/datalab-to/chandra) ⭐ 12,180 | 🐛 58 | 🌐 Python | 📅 2026-06-26: a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
+7. [Chandra](https://github.com/datalab-to/chandra) ⭐ 12,181 | 🐛 58 | 🌐 Python | 📅 2026-06-26: a highly accurate OCR model that converts images and PDFs into structured HTML/Markdown/JSON while preserving layout information.
 8. [TensorZero](https://github.com/tensorzero/tensorzero) ⚠️ Archived: make LLMs improve through experience.
 9. [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) ⭐ 10,002 | 🐛 107 | 🌐 Python | 📅 2025-01-03: A Comprehensive Toolkit for High-Quality PDF Content Extraction.
-10. [BabelDOC](https://github.com/funstory-ai/BabelDOC) ⭐ 9,427 | 🐛 84 | 🌐 Python | 📅 2026-08-05: PDF scientific paper translation and bilingual comparison library.
+10. [BabelDOC](https://github.com/funstory-ai/BabelDOC) ⭐ 9,431 | 🐛 84 | 🌐 Python | 📅 2026-08-05: PDF scientific paper translation and bilingual comparison library.
 11. [Dolphin](https://github.com/bytedance/Dolphin) ⭐ 9,048 | 🐛 77 | 🌐 Python | 📅 2026-03-25: Document Image Parsing via Heterogeneous Anchor Prompting.
-12. [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) ⭐ 8,218 | 🐛 231 | 🌐 Python | 📅 2025-02-10: OCR Model.
-13. [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 7,793 | 🐛 9 | 🌐 Python | 📅 2026-08-18: Easy Data Preparation with latest LLMs-based Operators and Pipelines.
+12. [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) ⭐ 8,219 | 🐛 231 | 🌐 Python | 📅 2025-02-10: OCR Model.
+13. [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 7,807 | 🐛 9 | 🌐 Python | 📅 2026-08-18: Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 14. [MegaParse](https://github.com/QuivrHQ/MegaParse) ⭐ 7,414 | 🐛 33 | 🌐 Python | 📅 2025-02-21: File Parser optimised for LLM Ingestion with no loss.
 15. [data-juicer](https://github.com/modelscope/data-juicer) ⭐ 6,947 | 🐛 61 | 🌐 Python | 📅 2026-08-28: A one-stop data processing system to make data higher-quality, juicier, and more digestible for LLMs!
 16. [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) ⭐ 5,589 | 🐛 126 | 🌐 HTML | 📅 2025-07-17: Convert PDF to HTML without losing text or format.
 17. [Sparrow](https://github.com/katanaml/sparrow) ⭐ 5,207 | 🐛 0 | 🌐 Python | 📅 2026-08-26: Sparrow is an innovative open-source solution for efficient data extraction and processing from various documents and images.
 18. [Distilabel](https://github.com/argilla-io/distilabel) ⭐ 3,381 | 🐛 102 | 🌐 Python | 📅 2026-08-24: Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.
-19. [DataTrove](https://github.com/huggingface/datatrove) ⭐ 3,310 | 🐛 98 | 🌐 Python | 📅 2026-08-13: DataTrove is a library to process, filter and deduplicate text data at a very large scale.
+19. [DataTrove](https://github.com/huggingface/datatrove) ⭐ 3,310 | 🐛 99 | 🌐 Python | 📅 2026-08-13: DataTrove is a library to process, filter and deduplicate text data at a very large scale.
 20. [pdf-extract-api](https://github.com/CatchTheTornado/pdf-extract-api) ⭐ 3,177 | 🐛 47 | 🌐 Python | 📅 2025-12-08: Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models.
 21. [datasketch](https://github.com/ekzhu/datasketch) ⭐ 2,961 | 🐛 58 | 🌐 Python | 📅 2026-08-09: datasketch gives you probabilistic data structures that can process and search very large amount of data super fast, with little loss of accuracy.
 22. [OCRFlux](https://github.com/chatdoc-com/OCRFlux) ⭐ 2,533 | 🐛 70 | 🌐 Python | 📅 2026-04-14: a lightweight yet powerful multimodal toolkit that significantly advances PDF-to-Markdown conversion, excelling in complex layout handling, complicated table parsing and cross-page content merging.
 23. [AotoLabel](https://github.com/refuel-ai/autolabel) ⭐ 2,329 | 🐛 81 | 🌐 Python | 📅 2025-03-05: Label, clean and enrich text datasets with LLMs.
 24. [DocLayout-YOLO](https://github.com/opendatalab/DocLayout-YOLO) ⭐ 2,259 | 🐛 55 | 🌐 Python | 📅 2025-04-14: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception.
 25. [ContextGem](https://github.com/shcherbak-ai/contextgem) ⭐ 1,995 | 🐛 0 | 🌐 Python | 📅 2026-08-13: a free, open-source LLM framework that makes it radically easier to extract structured data and insights from documents.
-26. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) ⭐ 1,960 | 🐛 79 | 🌐 Python | 📅 2026-07-29: a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
+26. [HunyuanOCR](https://github.com/Tencent-Hunyuan/HunyuanOCR) ⭐ 1,963 | 🐛 79 | 🌐 Python | 📅 2026-07-29: a leading end-to-end OCR expert VLM powered by Hunyuan's native multimodal architecture.
 27. [Extractous](https://github.com/yobix-ai/extractous) ⭐ 1,772 | 🐛 33 | 🌐 Rust | 📅 2024-12-21: Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.
 28. [Bespoke Curator](https://github.com/bespokelabsai/curator) ⭐ 1,720 | 🐛 74 | 🌐 Python | 📅 2026-08-07: Data Curation for Post-Training & Structured Data Extraction.
 29. [Curator](https://github.com/bespokelabsai/curator) ⭐ 1,720 | 🐛 74 | 🌐 Python | 📅 2026-08-07: Synthetic Data curation for post-training and structured data extraction.
@@ -128,7 +128,7 @@
 35. [semhash](https://github.com/MinishLab/semhash) ⭐ 961 | 🐛 1 | 🌐 Python | 📅 2026-05-24: lightweight and flexible tool for deduplicating datasets using semantic similarity.
 36. [Promptwright](https://github.com/StacklokLabs/promptwright) ⭐ 882 | 🐛 19 | 🌐 Python | 📅 2026-08-25: Generate large synthetic data using a local LLM.
 37. [Tabled](https://github.com/VikParuchuri/tabled) ⚠️ Archived: Detect and extract tables to markdown and csv.
-38. [EasyDistill](https://github.com/modelscope/easydistill) ⭐ 462 | 🐛 11 | 🌐 Python | 📅 2026-08-17: Easy Knowledge Distillation for Large Language Models.
+38. [EasyDistill](https://github.com/modelscope/easydistill) ⭐ 463 | 🐛 11 | 🌐 Python | 📅 2026-08-17: Easy Knowledge Distillation for Large Language Models.
 39. [LLM Decontaminator](https://github.com/lm-sys/llm-decontaminator) ⭐ 325 | 🐛 4 | 🌐 Python | 📅 2023-12-20: Rethinking Benchmark and Contamination for Language Models with Rephrased Samples.
 40. [DatasetLoom (`multimodal`)](https://github.com/599yongyang/DatasetLoom) ⭐ 294 | 🐛 8 | 🌐 TypeScript | 📅 2025-12-13: 一个面向多模态大模型训练的智能数据集构建与评估平台.
 41. [llm-swarm](https://github.com/huggingface/llm-swarm/tree/main/examples/textbooks) ⭐ 290 | 🐛 3 | 🌐 Python | 📅 2024-07-11: Generate large synthetic datasets like [Cosmopedia](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia).
@@ -146,42 +146,42 @@
 
 ## 微调 Fine-Tuning
 
-1. [unsloth (`🔥`)](https://github.com/unslothai/unsloth) ⭐ 75,045 | 🐛 1,394 | 🌐 Python | 📅 2026-08-28: 2-5X faster 80% less memory LLM finetuning.
-2. [LLaMA-Factory (`🔥`)](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,426 | 🐛 1,138 | 🌐 Python | 📅 2026-08-27: Unify Efficient Fine-Tuning of 100+ LLMs.
-3. [veRL (`🔥`)](https://github.com/volcengine/verl) ⭐ 23,178 | 🐛 1,147 | 🌐 Python | 📅 2026-08-28: Volcano Engine Reinforcement Learning for LLM.
-4. [Swift](https://github.com/modelscope/swift) ⭐ 15,397 | 🐛 632 | 🌐 Python | 📅 2026-08-28: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs.
-5. [LitGPT](https://github.com/Lightning-AI/litgpt) ⭐ 13,634 | 🐛 282 | 🌐 Python | 📅 2026-08-17: Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+1. [unsloth (`🔥`)](https://github.com/unslothai/unsloth) ⭐ 75,083 | 🐛 1,385 | 🌐 Python | 📅 2026-08-29: 2-5X faster 80% less memory LLM finetuning.
+2. [LLaMA-Factory (`🔥`)](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,430 | 🐛 1,138 | 🌐 Python | 📅 2026-08-27: Unify Efficient Fine-Tuning of 100+ LLMs.
+3. [veRL (`🔥`)](https://github.com/volcengine/verl) ⭐ 23,183 | 🐛 1,149 | 🌐 Python | 📅 2026-08-29: Volcano Engine Reinforcement Learning for LLM.
+4. [Swift](https://github.com/modelscope/swift) ⭐ 15,398 | 🐛 632 | 🌐 Python | 📅 2026-08-28: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs.
+5. [LitGPT](https://github.com/Lightning-AI/litgpt) ⭐ 13,635 | 🐛 282 | 🌐 Python | 📅 2026-08-17: Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 6. [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) ⭐ 12,969 | 🐛 342 | 🌐 Python | 📅 2026-05-23: Easy-to-use and powerful NLP and LLM library.
 7. [Ludwig](https://github.com/ludwig-ai/ludwig) ⭐ 11,745 | 🐛 1 | 🌐 Python | 📅 2026-08-24: Low-code framework for building custom LLMs, neural networks, and other AI models.
-8. [ART](https://github.com/OpenPipe/ART) ⭐ 10,675 | 🐛 128 | 🌐 Python | 📅 2026-08-28: rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
-9. [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) ⭐ 9,957 | 🐛 362 | 🌐 Python | 📅 2026-08-13: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
-10. [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) ⭐ 9,957 | 🐛 362 | 🌐 Python | 📅 2026-08-13: An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & Mixtral).
-11. [Oumi](https://github.com/oumi-ai/oumi) ⭐ 9,379 | 🐛 31 | 🌐 Python | 📅 2026-08-28: Everything you need to build state-of-the-art foundation models, end-to-end.
+8. [ART](https://github.com/OpenPipe/ART) ⭐ 10,678 | 🐛 127 | 🌐 Python | 📅 2026-08-28: rain multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training.
+9. [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) ⭐ 9,958 | 🐛 362 | 🌐 Python | 📅 2026-08-13: An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO).
+10. [OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) ⭐ 9,958 | 🐛 362 | 🌐 Python | 📅 2026-08-13: An Easy-to-use, Scalable and High-performance RLHF Framework (70B+ PPO Full Tuning & Iterative DPO & LoRA & Mixtral).
+11. [Oumi](https://github.com/oumi-ai/oumi) ⭐ 9,379 | 🐛 33 | 🌐 Python | 📅 2026-08-28: Everything you need to build state-of-the-art foundation models, end-to-end.
 12. [Firefly](https://github.com/yangjianxin1/Firefly) ⭐ 6,654 | 🐛 211 | 🌐 Python | 📅 2024-10-24: Firefly: 大模型训练工具，支持训练数十种大模型
-13. [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,593 | 🐛 206 | 🌐 Python | 📅 2026-08-28: Efficient Triton Kernels for LLM Training.
+13. [Liger-Kernel](https://github.com/linkedin/Liger-Kernel) ⭐ 6,592 | 🐛 212 | 🌐 Python | 📅 2026-08-28: Efficient Triton Kernels for LLM Training.
 14. [torchtune](https://github.com/pytorch/torchtune) ⭐ 5,802 | 🐛 457 | 🌐 Python | 📅 2026-08-28: A Native-PyTorch Library for LLM Fine-tuning.
-15. [MLX-VLM](https://github.com/Blaizzy/mlx-vlm) ⭐ 5,434 | 🐛 173 | 🌐 Python | 📅 2026-08-28: MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+15. [MLX-VLM](https://github.com/Blaizzy/mlx-vlm) ⭐ 5,437 | 🐛 175 | 🌐 Python | 📅 2026-08-28: MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 16. [Xtuner](https://github.com/InternLM/xtuner) ⭐ 5,185 | 🐛 364 | 🌐 Python | 📅 2026-08-28: An efficient, flexible and full-featured toolkit for fine-tuning large models.
 17. [Transformer Lab](https://github.com/transformerlab/transformerlab-app) ⭐ 5,180 | 🐛 15 | 🌐 Python | 📅 2026-08-09: Open Source Application for Advanced LLM Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 18. [H2O-LLMStudio](https://github.com/h2oai/h2o-llmstudio) ⭐ 5,174 | 🐛 36 | 🌐 Python | 📅 2026-08-18: H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs.
-19. [Kiln](https://github.com/Kiln-AI/Kiln) ⭐ 5,037 | 🐛 71 | 🌐 Python | 📅 2026-08-28: The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+19. [Kiln](https://github.com/Kiln-AI/Kiln) ⭐ 5,037 | 🐛 69 | 🌐 Python | 📅 2026-08-28: The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 20. [Meta Lingua](https://github.com/facebookresearch/lingua) ⭐ 4,766 | 🐛 13 | 🌐 Python | 📅 2025-07-18: a lean, efficient, and easy-to-hack codebase to research LLMs.
 21. [Autotrain-advanced](https://github.com/huggingface/autotrain-advanced) ⭐ 4,608 | 🐛 6 | 🌐 Python | 📅 2026-07-21
 22. [LLM-Foundry](https://github.com/mosaicml/llm-foundry) ⭐ 4,442 | 🐛 66 | 🌐 Python | 📅 2026-03-25: LLM training code for Databricks foundation models.
-23. [Soup](https://github.com/MakazhanAlpamys/Soup) ⭐ 3,430 | 🐛 63 | 🌐 Python | 📅 2026-08-28: One-config CLI for LLM post-training (SFT/DPO/GRPO/KTO/ORPO). Layer streaming trains an 8B model on a 4 GB laptop GPU by streaming the frozen base from host RAM one decoder layer at a time.
+23. [Soup](https://github.com/MakazhanAlpamys/Soup) ⭐ 3,496 | 🐛 52 | 🌐 Python | 📅 2026-08-28: One-config CLI for LLM post-training (SFT/DPO/GRPO/KTO/ORPO). Layer streaming trains an 8B model on a 4 GB laptop GPU by streaming the frozen base from host RAM one decoder layer at a time.
 24. [mistral-finetune](https://github.com/mistralai/mistral-finetune) ⚠️ Archived: A light-weight codebase that enables memory-efficient and performant finetuning of Mistral's models.
-25. [nanotron](https://github.com/huggingface/nanotron) ⭐ 2,802 | 🐛 150 | 🌐 Python | 📅 2026-05-26: Minimalistic large language model 3D-parallelism training.
+25. [nanotron](https://github.com/huggingface/nanotron) ⭐ 2,804 | 🐛 150 | 🌐 Python | 📅 2026-05-26: Minimalistic large language model 3D-parallelism training.
 26. [dLLM](https://github.com/ZHZisZZ/dllm) ⭐ 2,673 | 🐛 21 | 🌐 Python | 📅 2026-07-17: a library that unifies the training and evaluation of diffusion language models, bringing transparency and reproducibility to the entire development pipeline. `diffusion`
-27. [Miles](https://github.com/radixark/miles) ⭐ 2,279 | 🐛 959 | 🌐 Python | 📅 2026-08-28: an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
-28. [VeOmni](https://github.com/ByteDance-Seed/VeOmni) ⭐ 2,179 | 🐛 192 | 🌐 Python | 📅 2026-08-28: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
-29. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory) ⭐ 1,780 | 🐛 30 | 🌐 Python | 📅 2025-12-05: Train your Agent model via our easy and efficient framework.
-30. [Skills](https://github.com/NVIDIA-NeMo/Skills) ⭐ 1,033 | 🐛 110 | 🌐 Python | 📅 2026-08-27: a collection of pipelines to improve "skills" of large language models (LLMs).
+27. [Miles](https://github.com/radixark/miles) ⭐ 2,282 | 🐛 972 | 🌐 Python | 📅 2026-08-29: an enterprise-facing reinforcement learning framework for large-scale MoE post-training and production workloads.
+28. [VeOmni](https://github.com/ByteDance-Seed/VeOmni) ⭐ 2,179 | 🐛 192 | 🌐 Python | 📅 2026-08-29: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo.
+29. [RL-Factory](https://github.com/Simple-Efficient/RL-Factory) ⭐ 1,779 | 🐛 30 | 🌐 Python | 📅 2025-12-05: Train your Agent model via our easy and efficient framework.
+30. [Skills](https://github.com/NVIDIA-NeMo/Skills) ⭐ 1,033 | 🐛 111 | 🌐 Python | 📅 2026-08-28: a collection of pipelines to improve "skills" of large language models (LLMs).
 31. [TinyLLaVA Factory](https://github.com/TinyLLaVA/TinyLLaVA_Factory) ⭐ 1,003 | 🐛 115 | 🌐 Python | 📅 2026-07-23: A Framework of Small-scale Large Multimodal Models.
-32. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel) ⭐ 878 | 🐛 405 | 🌐 Python | 📅 2026-08-28: Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
+32. [NeMo AutoModel](https://github.com/NVIDIA-NeMo/Automodel) ⭐ 879 | 🐛 407 | 🌐 Python | 📅 2026-08-29: Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support.
 33. [LLMBox](https://github.com/RUCAIBox/LLMBox) ⭐ 848 | 🐛 4 | 🌐 Python | 📅 2025-06-16: A comprehensive library for implementing LLMs, including a unified training pipeline and comprehensive model evaluation.
 34. [LMMs-Engine](https://github.com/EvolvingLMMs-Lab/lmms-engine) ⭐ 824 | 🐛 11 | 🌐 Python | 📅 2026-08-06: A simple, any-to-any modality framework for pretraining and finetuning. Lean, flexible, and built for research.
 35. [DeepSeek-671B-SFT-Guide](https://github.com/ScienceOne-AI/DeepSeek-671B-SFT-Guide) ⭐ 812 | 🐛 1 | 🌐 Python | 📅 2025-03-13: An open-source solution for full parameter fine-tuning of DeepSeek-V3/R1 671B, including complete code and scripts from training to inference, as well as some practical experiences and conclusions.
-36. [RM-Gallery](https://github.com/modelscope/RM-Gallery) ⭐ 804 | 🐛 15 | 🌐 Python | 📅 2026-08-03: A One-Stop Reward Model Platform.
+36. [RM-Gallery](https://github.com/modelscope/RM-Gallery) ⭐ 805 | 🐛 15 | 🌐 Python | 📅 2026-08-03: A One-Stop Reward Model Platform.
 37. [360-LLaMA-Factory](https://github.com/Qihoo360/360-LLaMA-Factory) ⭐ 609 | 🐛 24 | 🌐 Python | 📅 2026-02-05: Unify Efficient Fine-Tuning of 100+ LLMs. (add Sequence Parallelism for supporting long context training)
 38. [Online-RLHF](https://github.com/RLHFlow/Online-RLHF) ⭐ 544 | 🐛 12 | 🌐 Python | 📅 2024-12-28: A recipe for online RLHF and online iterative DPO.
 39. [aikit](https://github.com/sozercan/aikit) ⭐ 537 | 🐛 40 | 🌐 Go | 📅 2026-08-24: Fine-tune, build, and deploy open-source LLMs easily!
@@ -189,7 +189,7 @@
 41. [InternEvo](https://github.com/InternLM/InternEvo) ⭐ 421 | 🐛 70 | 🌐 Python | 📅 2025-08-21: an open-sourced lightweight training framework aims to support model pre-training without the need for extensive dependencies.
 42. [finetune-Qwen2-VL](https://github.com/zhangfaen/finetune-Qwen2-VL) ⭐ 395 | 🐛 18 | 🌐 Python | 📅 2025-02-08: Quick Start for Fine-tuning or continue pre-train Qwen2-VL Model.
 43. [lmms-finetune](https://github.com/zjysteven/lmms-finetune) ⭐ 373 | 🐛 3 | 🌐 Python | 📅 2026-02-28: A unified codebase for finetuning (full, lora) large multimodal models, supporting llava-1.5, qwen-vl, llava-interleave, llava-next-video, phi3-v etc.
-44. [Twinkle](https://github.com/modelscope/twinkle) ⭐ 253 | 🐛 9 | 🌐 Python | 📅 2026-08-28: a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
+44. [Twinkle](https://github.com/modelscope/twinkle) ⭐ 253 | 🐛 9 | 🌐 Python | 📅 2026-08-29: a lightweight, client-server training framework engineered with modular, high-cohesion interfaces.
 45. [Effective LLM Alignment](https://github.com/VikhrModels/effective_llm_alignment/) ⭐ 153 | 🐛 5 | 🌐 Python | 📅 2025-06-25: Effective LLM Alignment Toolkit.
 46. [Proxy Tuning](https://github.com/alisawuffles/proxy-tuning) ⭐ 134 | 🐛 5 | 🌐 Python | 📅 2024-03-30: Tuning Language Models by Proxy.
 47. [Vision-LLM Alignemnt](https://github.com/NiuTrans/Vision-LLM-Alignment) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2025-06-18: This repository contains the code for SFT, RLHF, and DPO, designed for vision-based LLMs, including the LLaVA models and the LLaMA-3.2-vision models.
@@ -205,12 +205,12 @@
 
 ## Agentic RL
 
-* veRL (`🔥`): <https://github.com/volcengine/verl> ⭐ 23,178 | 🐛 1,147 | 🌐 Python | 📅 2026-08-28
-* Agent Lightning: <https://github.com/microsoft/agent-lightning> ⭐ 17,889 | 🐛 154 | 🌐 Python | 📅 2026-08-28
-* slime (`🔥`): <https://github.com/THUDM/slime> ⭐ 8,292 | 🐛 452 | 🌐 Python | 📅 2026-08-28
-* AReaL: <https://github.com/inclusionAI/AReaL> ⭐ 5,700 | 🐛 105 | 🌐 Python | 📅 2026-08-28
-* prime-rl: <https://github.com/PrimeIntellect-ai/prime-rl> ⭐ 1,984 | 🐛 211 | 🌐 Python | 📅 2026-08-28
-* Molt: <https://github.com/NVIDIA-NeMo/labs-molt> ⭐ 982 | 🐛 16 | 🌐 Python | 📅 2026-08-28
+* veRL (`🔥`): <https://github.com/volcengine/verl> ⭐ 23,183 | 🐛 1,149 | 🌐 Python | 📅 2026-08-29
+* Agent Lightning: <https://github.com/microsoft/agent-lightning> ⭐ 17,896 | 🐛 154 | 🌐 Python | 📅 2026-08-28
+* slime (`🔥`): <https://github.com/THUDM/slime> ⭐ 8,299 | 🐛 452 | 🌐 Python | 📅 2026-08-28
+* AReaL: <https://github.com/inclusionAI/AReaL> ⭐ 5,701 | 🐛 104 | 🌐 Python | 📅 2026-08-29
+* prime-rl: <https://github.com/PrimeIntellect-ai/prime-rl> ⭐ 1,988 | 🐛 213 | 🌐 Python | 📅 2026-08-29
+* Molt: <https://github.com/NVIDIA-NeMo/labs-molt> ⭐ 983 | 🐛 16 | 🌐 Python | 📅 2026-08-29
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -218,46 +218,46 @@
 
 ## 推理 Inference
 
-1. [ollama (`🔥`)](https://github.com/ollama/ollama) ⭐ 179,641 | 🐛 3,821 | 🌐 Go | 📅 2026-08-28: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-2. [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 150,227 | 🐛 224 | 🌐 Python | 📅 2026-08-28: User-friendly WebUI for LLMs (Formerly Ollama WebUI).
-3. [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,192 | 🐛 426 | 🌐 Python | 📅 2026-08-28: Build context-aware reasoning applications.
-4. [vllm (`🔥`)](https://github.com/vllm-project/vllm) ⭐ 90,317 | 🐛 7,160 | 🌐 Python | 📅 2026-08-28: A high-throughput and memory-efficient inference and serving engine for LLMs.
-5. [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,069 | 🐛 829 | 🌐 TypeScript | 📅 2026-08-28: an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers, Multi-Modals (Vision/TTS) and plugin system.
-6. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,175 | 🐛 8 | 🌐 Rust | 📅 2026-08-20: A natural language interface for computers.
-7. [Mem0](https://github.com/mem0ai/mem0) ⭐ 64,265 | 🐛 703 | 🌐 Python | 📅 2026-08-28: The memory layer for Personalized AI.
-8. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm) ⭐ 57,487 | 🐛 4,889 | 🌐 Python | 📅 2026-08-28: Call all LLM APIs using the OpenAI format \[Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
+1. [ollama (`🔥`)](https://github.com/ollama/ollama) ⭐ 179,674 | 🐛 3,828 | 🌐 Go | 📅 2026-08-29: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+2. [Open WebUI](https://github.com/open-webui/open-webui) ⭐ 150,265 | 🐛 226 | 🌐 Python | 📅 2026-08-29: User-friendly WebUI for LLMs (Formerly Ollama WebUI).
+3. [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,215 | 🐛 431 | 🌐 Python | 📅 2026-08-28: Build context-aware reasoning applications.
+4. [vllm (`🔥`)](https://github.com/vllm-project/vllm) ⭐ 90,356 | 🐛 7,152 | 🌐 Python | 📅 2026-08-29: A high-throughput and memory-efficient inference and serving engine for LLMs.
+5. [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,078 | 🐛 834 | 🌐 TypeScript | 📅 2026-08-29: an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers, Multi-Modals (Vision/TTS) and plugin system.
+6. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,177 | 🐛 8 | 🌐 Rust | 📅 2026-08-20: A natural language interface for computers.
+7. [Mem0](https://github.com/mem0ai/mem0) ⭐ 64,281 | 🐛 703 | 🌐 Python | 📅 2026-08-28: The memory layer for Personalized AI.
+8. [LiteLLM (`🔥`)](https://github.com/BerriAI/litellm) ⭐ 57,506 | 🐛 4,854 | 🌐 Python | 📅 2026-08-29: Call all LLM APIs using the OpenAI format \[Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
 9. [Flowise](https://github.com/FlowiseAI/Flowise) ⚠️ Archived: Drag & drop UI to build your customized LLM flow.
-10. [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,906 | 🐛 668 | 🌐 Python | 📅 2026-08-28: A data framework for your LLM applications.
-11. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio) ⭐ 51,197 | 🐛 1,454 | 🌐 TypeScript | 📅 2026-08-28: a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
-12. [LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,722 | 🐛 219 | 🌐 Go | 📅 2026-08-28: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required.
-13. [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,589 | 🐛 840 | 🌐 Python | 📅 2026-08-17: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
-14. [Jan](https://github.com/janhq/jan) ⭐ 44,227 | 🐛 494 | 🌐 TypeScript | 📅 2026-08-28: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
-15. [AirLLM](https://github.com/lyogavin/airllm) ⭐ 32,929 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2026-08-28: AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
-16. [SGLang (`🔥`)](https://github.com/sgl-project/sglang) ⭐ 32,623 | 🐛 5,020 | 🌐 Python | 📅 2026-08-28: SGLang is yet another fast serving framework for large language models and vision language models.
-17. [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 24,479 | 🐛 39 | 📅 2026-08-23: Create LLM agents with long-term memory and custom tools.
-18. [ktransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,320 | 🐛 508 | 🌐 Python | 📅 2026-08-28: A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations.
-19. [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,494 | 🐛 1,468 | 🌐 Python | 📅 2026-08-28: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
+10. [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29: A data framework for your LLM applications.
+11. [Cherry Studio (`🔥`)](https://github.com/CherryHQ/cherry-studio) ⭐ 51,207 | 🐛 1,456 | 🌐 TypeScript | 📅 2026-08-29: a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.
+12. [LocalAI](https://github.com/mudler/LocalAI) ⭐ 48,727 | 🐛 222 | 🌐 Go | 📅 2026-08-28: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required.
+13. [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) ⭐ 47,591 | 🐛 840 | 🌐 Python | 📅 2026-08-17: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+14. [Jan](https://github.com/janhq/jan) ⭐ 44,234 | 🐛 498 | 🌐 TypeScript | 📅 2026-08-29: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM).
+15. [AirLLM](https://github.com/lyogavin/airllm) ⭐ 32,970 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2026-08-28: AirLLM optimizes inference memory usage, allowing 70B large language models to run inference on a single 4GB GPU card without quantization, distillation and pruning. And you can run 405B Llama3.1 on 8GB vram now.
+16. [SGLang (`🔥`)](https://github.com/sgl-project/sglang) ⭐ 32,641 | 🐛 4,994 | 🌐 Python | 📅 2026-08-29: SGLang is yet another fast serving framework for large language models and vision language models.
+17. [MemGPT](https://github.com/cpacker/MemGPT) ⭐ 24,484 | 🐛 39 | 📅 2026-08-23: Create LLM agents with long-term memory and custom tools.
+18. [ktransformers](https://github.com/kvcache-ai/ktransformers) ⭐ 19,321 | 🐛 508 | 🌐 Python | 📅 2026-08-28: A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations.
+19. [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) ⭐ 14,495 | 🐛 1,407 | 🌐 Python | 📅 2026-08-29: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs.
 20. [OpenLLM](https://github.com/bentoml/OpenLLM) ⭐ 12,522 | 🐛 16 | 🌐 Python | 📅 2026-08-24: Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud.
-21. [koboldcpp](https://github.com/LostRuins/koboldcpp) ⭐ 11,557 | 🐛 503 | 🌐 C++ | 📅 2026-08-28: A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.
-22. [chat-ui](https://github.com/huggingface/chat-ui) ⭐ 10,915 | 🐛 274 | 🌐 TypeScript | 📅 2026-08-28: Open source codebase powering the HuggingChat app.
-23. [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,534 | 🐛 395 | 🌐 Python | 📅 2026-08-28: Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-24. [Xinference](https://github.com/xorbitsai/inference) ⭐ 9,528 | 🐛 45 | 🌐 Python | 📅 2026-08-28: A powerful and versatile library designed to serve language, speech recognition, and multimodal models.
-25. [FreeToken](https://github.com/FlashML-org/FreeToken) ⭐ 9,275 | 🐛 211 | 🌐 Python | 📅 2026-08-28: Unlock datacenter-class intelligence on the hardware you already own.
+21. [koboldcpp](https://github.com/LostRuins/koboldcpp) ⭐ 11,559 | 🐛 504 | 🌐 C++ | 📅 2026-08-29: A simple one-file way to run various GGML and GGUF models with KoboldAI's UI.
+22. [chat-ui](https://github.com/huggingface/chat-ui) ⭐ 10,918 | 🐛 274 | 🌐 TypeScript | 📅 2026-08-29: Open source codebase powering the HuggingChat app.
+23. [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,534 | 🐛 397 | 🌐 Python | 📅 2026-08-29: Run AI and batch jobs on any infra (Kubernetes or 14+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
+24. [Xinference](https://github.com/xorbitsai/inference) ⭐ 9,528 | 🐛 47 | 🌐 Python | 📅 2026-08-28: A powerful and versatile library designed to serve language, speech recognition, and multimodal models.
+25. [FreeToken](https://github.com/FlashML-org/FreeToken) ⭐ 9,391 | 🐛 218 | 🌐 Python | 📅 2026-08-28: Unlock datacenter-class intelligence on the hardware you already own.
 26. [LMDeploy](https://github.com/InternLM/lmdeploy) ⭐ 8,031 | 🐛 601 | 🌐 Python | 📅 2026-08-28: LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
-27. [enchanted](https://github.com/AugustDev/enchanted) ⭐ 5,999 | 🐛 113 | 🌐 Swift | 📅 2026-07-07: Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-28. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,810 | 🐛 10 | 🌐 Rust | 📅 2026-08-27: Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
-29. [RouteLLM](https://github.com/lm-sys/RouteLLM) ⭐ 5,413 | 🐛 41 | 🌐 Python | 📅 2024-08-10: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
-30. [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,686 | 🐛 71 | 🌐 C++ | 📅 2026-08-27: The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text.
+27. [enchanted](https://github.com/AugustDev/enchanted) ⭐ 6,000 | 🐛 113 | 🌐 Swift | 📅 2026-07-07: Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
+28. [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,809 | 🐛 8 | 🌐 Rust | 📅 2026-08-29: Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary.
+29. [RouteLLM](https://github.com/lm-sys/RouteLLM) ⭐ 5,414 | 🐛 41 | 🌐 Python | 📅 2024-08-10: A framework for serving and evaluating LLM routers - save LLM costs without compromising quality!
+30. [Infinity](https://github.com/infiniflow/infinity) ⭐ 4,687 | 🐛 71 | 🌐 C++ | 📅 2026-08-27: The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense embedding, sparse embedding, tensor and full-text.
 31. [optillm](https://github.com/codelion/optillm) ⭐ 4,257 | 🐛 24 | 🌐 Python | 📅 2026-07-18: an OpenAI API compatible optimizing inference proxy which implements several state-of-the-art techniques that can improve the accuracy and performance of LLMs.
-32. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) ⭐ 3,561 | 🐛 122 | 🌐 Python | 📅 2026-08-28: OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
+32. [Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) ⭐ 3,562 | 🐛 104 | 🌐 Python | 📅 2026-08-29: OpenAI-compatible local LLM inference server for Apple Silicon, 2-4x faster than Ollama.
 33. [Chat-ollama](https://github.com/sugarforever/chat-ollama) ⭐ 3,510 | 🐛 244 | 🌐 TypeScript | 📅 2026-05-28: An open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
-34. [MemoryScope](https://github.com/modelscope/MemoryScope) ⭐ 3,364 | 🐛 23 | 🌐 Python | 📅 2026-08-28: MemoryScope provides LLM chatbots with powerful and flexible long-term memory capabilities, offering a framework for building such abilities.
+34. [MemoryScope](https://github.com/modelscope/MemoryScope) ⭐ 3,366 | 🐛 23 | 🌐 Python | 📅 2026-08-28: MemoryScope provides LLM chatbots with powerful and flexible long-term memory capabilities, offering a framework for building such abilities.
 35. [Chitu](https://github.com/thu-pacman/chitu) ⭐ 2,998 | 🐛 57 | 🌐 Python | 📅 2026-08-28: High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.
 36. [LLMFarm](https://github.com/guinmoon/LLMFarm) ⭐ 2,063 | 🐛 46 | 🌐 C | 📅 2026-01-30: llama and other large language models on iOS and MacOS offline using GGML library.
-37. [TokenSpeed](https://github.com/lightseekorg/tokenspeed) ⭐ 2,027 | 🐛 28 | 🌐 Python | 📅 2026-08-28: a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
+37. [TokenSpeed](https://github.com/lightseekorg/tokenspeed) ⭐ 2,029 | 🐛 18 | 🌐 Python | 📅 2026-08-29: a speed-of-light LLM inference engine designed for agentic workloads, with TensorRT-LLM-level performance and vLLM-level usability. Our goal is to be the most performant inference engine for production agentic workloads.
 38. [chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) ⭐ 1,593 | 🐛 29 | 🌐 Python | 📅 2024-09-06: Chat with your data natively on Apple Silicon using MLX Framework.
-39. [GuideLLM](https://github.com/neuralmagic/guidellm) ⭐ 1,551 | 🐛 65 | 🌐 Python | 📅 2026-08-28: GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
-40. [xLLM](https://github.com/jd-opensource/xllm) ⭐ 1,540 | 🐛 211 | 🌐 C++ | 📅 2026-08-28: A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+39. [GuideLLM](https://github.com/neuralmagic/guidellm) ⭐ 1,552 | 🐛 65 | 🌐 Python | 📅 2026-08-28: GuideLLM is a powerful tool for evaluating and optimizing the deployment of large language models (LLMs).
+40. [xLLM](https://github.com/jd-opensource/xllm) ⭐ 1,540 | 🐛 213 | 🌐 C++ | 📅 2026-08-28: A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 41. [LlamaChat](https://github.com/alexrozanski/LlamaChat) ⭐ 1,511 | 🐛 25 | 🌐 Swift | 📅 2026-06-17: Chat with your favourite LLaMA models in a native macOS app.
 42. [LlamaBarn](https://github.com/ggml-org/LlamaBarn) ⭐ 1,476 | 🐛 7 | 🌐 Swift | 📅 2026-08-28: Run local LLMs on your Mac with a simple menu bar app.
 43. [Parallax](https://github.com/GradientHQ/parallax) ⭐ 1,368 | 🐛 21 | 🌐 Python | 📅 2026-07-01: a distributed model serving framework that lets you build your own AI cluster anywhere.
@@ -282,15 +282,15 @@
 
 ## 评估 Evaluation
 
-1. [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 17,936 | 🐛 490 | 🌐 Python | 📅 2026-08-28: a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems.
-2. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 13,819 | 🐛 919 | 🌐 Python | 📅 2026-08-28: A framework for few-shot evaluation of language models.
-3. [opencompass (`🔥`)](https://github.com/open-compass/opencompass) ⭐ 7,373 | 🐛 383 | 🌐 Python | 📅 2026-08-27: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
-4. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,362 | 🐛 299 | 🌐 Python | 📅 2026-08-28: Open-source evaluation toolkit of large vision-language models (LVLMs), support \~100 VLMs, 40+ benchmarks.
-5. [EvalScope (`🔥`)](https://github.com/modelscope/evalscope) ⭐ 3,327 | 🐛 43 | 🌐 Python | 📅 2026-08-28
-6. [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,327 | 🐛 43 | 🌐 Python | 📅 2026-08-28: A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
+1. [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 17,938 | 🐛 491 | 🌐 Python | 📅 2026-08-28: a simple-to-use, open-source LLM evaluation framework, for evaluating and testing large-language model systems.
+2. [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 13,823 | 🐛 911 | 🌐 Python | 📅 2026-08-28: A framework for few-shot evaluation of language models.
+3. [opencompass (`🔥`)](https://github.com/open-compass/opencompass) ⭐ 7,373 | 🐛 384 | 🌐 Python | 📅 2026-08-27: OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
+4. [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) ⭐ 4,362 | 🐛 300 | 🌐 Python | 📅 2026-08-28: Open-source evaluation toolkit of large vision-language models (LVLMs), support \~100 VLMs, 40+ benchmarks.
+5. [EvalScope (`🔥`)](https://github.com/modelscope/evalscope) ⭐ 3,327 | 🐛 45 | 🌐 Python | 📅 2026-08-28
+6. [EvalScope](https://github.com/modelscope/evalscope) ⭐ 3,327 | 🐛 45 | 🌐 Python | 📅 2026-08-28: A streamlined and customizable framework for efficient large model evaluation and performance benchmarking.
 7. [Lighteval](https://github.com/huggingface/lighteval) ⭐ 2,530 | 🐛 394 | 🌐 Python | 📅 2026-08-11: Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends.
-8. [Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) ⭐ 2,142 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-12-03: If you've ever wondered how to make sure an LLM performs well on your specific task, this guide is for you!
-9. [OpenJudge](https://github.com/modelscope/OpenJudge) ⭐ 804 | 🐛 15 | 🌐 Python | 📅 2026-08-03: A Unified Framework for Holistic Evaluation and Quality Rewards.
+8. [Evaluation guidebook](https://github.com/huggingface/evaluation-guidebook) ⭐ 2,141 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-12-03: If you've ever wondered how to make sure an LLM performs well on your specific task, this guide is for you!
+9. [OpenJudge](https://github.com/modelscope/OpenJudge) ⭐ 805 | 🐛 15 | 🌐 Python | 📅 2026-08-03: A Unified Framework for Holistic Evaluation and Quality Rewards.
 10. [Evalchemy](https://github.com/mlfoundations/evalchemy) ⭐ 607 | 🐛 37 | 🌐 HTML | 📅 2026-02-24: A unified and easy-to-use toolkit for evaluating post-trained language models.
 11. [llm-comparator](https://github.com/PAIR-code/llm-comparator) ⚠️ Archived: LLM Comparator is an interactive data visualization tool for evaluating and analyzing LLM responses side-by-side, developed.
 12. [QwQ/eval](https://github.com/QwenLM/QwQ/tree/main/eval) ⭐ 519 | 🐛 16 | 🌐 Python | 📅 2025-03-27: QwQ is the reasoning model series developed by Qwen team, Alibaba Cloud.
@@ -318,31 +318,31 @@
 
 ## 知识库 RAG
 
-1. [Dify](https://github.com/langgenius/dify) ⭐ 153,762 | 🐛 972 | 🌐 TypeScript | 📅 2026-08-28: An open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-2. [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,511 | 🐛 1,721 | 🌐 Go | 📅 2026-08-28: An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-3. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 65,337 | 🐛 338 | 🌐 JavaScript | 📅 2026-08-28: The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
-4. [Quivr](https://github.com/QuivrHQ/quivr) ⭐ 39,429 | 🐛 33 | 🌐 Python | 📅 2025-07-09: A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
-5. [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 39,250 | 🐛 211 | 🌐 Python | 📅 2026-08-28: Simple and Fast Retrieval-Augmented Generation.
-6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,590 | 🐛 24 | 🌐 Python | 📅 2025-11-10: 基于 Langchain 与 ChatGLM 等不同大语言模型的本地知识库问答
-7. [GraphRAG](https://github.com/microsoft/graphrag) ⭐ 35,716 | 🐛 36 | 🌐 Python | 📅 2026-08-24: A modular graph-based Retrieval-Augmented Generation (RAG) system.
-8. [FastGPT](https://github.com/labring/FastGPT) ⭐ 29,494 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-28: A knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization.
-9. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,261 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-28: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-10. [kotaemon](https://github.com/Cinnamon/kotaemon) ⭐ 25,724 | 🐛 242 | 🌐 Python | 📅 2026-07-14: An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
-11. [RAG-Anything](https://github.com/HKUDS/RAG-Anything) ⭐ 23,094 | 🐛 119 | 🌐 Python | 📅 2026-08-20: All-in-One RAG System.
-12. [MaxKB](https://github.com/1Panel-dev/MaxKB) ⭐ 22,639 | 🐛 25 | 🌐 Python | 📅 2026-08-28: 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统
-13. [DB-GPT GraphRAG](https://github.com/eosphoros-ai/DB-GPT/tree/main/dbgpt/storage/knowledge_graph) ⭐ 19,820 | 🐛 422 | 🌐 Python | 📅 2026-08-28: DB-GPT GraphRAG integrates both triplet-based knowledge graphs and document structure graphs while leveraging community and document retrieval mechanisms to enhance RAG capabilities, achieving comparable performance while consuming only 50% of the tokens required by Microsoft's GraphRAG. Refer to the DB-GPT [Graph RAG User Manual](http://docs.dbgpt.cn/docs/cookbook/rag/graph_rag_app_develop/) for details.
-14. [ragas](https://github.com/explodinggradients/ragas) ⭐ 15,519 | 🐛 579 | 🌐 Python | 📅 2026-02-24: Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
+1. [Dify](https://github.com/langgenius/dify) ⭐ 153,787 | 🐛 977 | 🌐 TypeScript | 📅 2026-08-29: An open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+2. [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,547 | 🐛 1,723 | 🌐 Go | 📅 2026-08-28: An open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+3. [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) ⭐ 65,348 | 🐛 328 | 🌐 JavaScript | 📅 2026-08-29: The all-in-one AI app for any LLM with full RAG and AI Agent capabilites.
+4. [Quivr](https://github.com/QuivrHQ/quivr) ⭐ 39,432 | 🐛 33 | 🌐 Python | 📅 2025-07-09: A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+5. [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 39,257 | 🐛 213 | 🌐 Python | 📅 2026-08-29: Simple and Fast Retrieval-Augmented Generation.
+6. [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ⭐ 38,591 | 🐛 24 | 🌐 Python | 📅 2025-11-10: 基于 Langchain 与 ChatGLM 等不同大语言模型的本地知识库问答
+7. [GraphRAG](https://github.com/microsoft/graphrag) ⭐ 35,727 | 🐛 36 | 🌐 Python | 📅 2026-08-24: A modular graph-based Retrieval-Augmented Generation (RAG) system.
+8. [FastGPT](https://github.com/labring/FastGPT) ⭐ 29,495 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-28: A knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization.
+9. [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,264 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-28: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+10. [kotaemon](https://github.com/Cinnamon/kotaemon) ⭐ 25,723 | 🐛 242 | 🌐 Python | 📅 2026-07-14: An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
+11. [RAG-Anything](https://github.com/HKUDS/RAG-Anything) ⭐ 23,096 | 🐛 119 | 🌐 Python | 📅 2026-08-20: All-in-One RAG System.
+12. [MaxKB](https://github.com/1Panel-dev/MaxKB) ⭐ 22,641 | 🐛 25 | 🌐 Python | 📅 2026-08-28: 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统
+13. [DB-GPT GraphRAG](https://github.com/eosphoros-ai/DB-GPT/tree/main/dbgpt/storage/knowledge_graph) ⭐ 19,821 | 🐛 422 | 🌐 Python | 📅 2026-08-28: DB-GPT GraphRAG integrates both triplet-based knowledge graphs and document structure graphs while leveraging community and document retrieval mechanisms to enhance RAG capabilities, achieving comparable performance while consuming only 50% of the tokens required by Microsoft's GraphRAG. Refer to the DB-GPT [Graph RAG User Manual](http://docs.dbgpt.cn/docs/cookbook/rag/graph_rag_app_develop/) for details.
+14. [ragas](https://github.com/explodinggradients/ragas) ⭐ 15,524 | 🐛 579 | 🌐 Python | 📅 2026-02-24: Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines.
 15. [QAnything](https://github.com/netease-youdao/QAnything) ⭐ 14,081 | 🐛 405 | 🌐 Python | 📅 2025-03-24: Question and Answer based on Anything.
 16. [TEN](https://github.com/TEN-framework/ten_framework) ⭐ 11,091 | 🐛 232 | 🌐 Python | 📅 2026-08-27: the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
-17. [KAG](https://github.com/OpenSPG/KAG) ⭐ 9,021 | 🐛 174 | 🌐 Python | 📅 2026-01-28: KAG is a knowledge-enhanced generation framework based on OpenSPG engine, which is used to build knowledge-enhanced rigorous decision-making and information retrieval knowledge services.
-18. [KAG](https://github.com/OpenSPG/KAG) ⭐ 9,021 | 🐛 174 | 🌐 Python | 📅 2026-01-28: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.
+17. [KAG](https://github.com/OpenSPG/KAG) ⭐ 9,023 | 🐛 174 | 🌐 Python | 📅 2026-01-28: KAG is a knowledge-enhanced generation framework based on OpenSPG engine, which is used to build knowledge-enhanced rigorous decision-making and information retrieval knowledge services.
+18. [KAG](https://github.com/OpenSPG/KAG) ⭐ 9,023 | 🐛 174 | 🌐 Python | 📅 2026-01-28: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.
 19. [Verba](https://github.com/weaviate/Verba) ⚠️ Archived: Retrieval Augmented Generation (RAG) chatbot powered by Weaviate.
-20. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ⭐ 5,056 | 🐛 144 | 🌐 TypeScript | 📅 2026-08-28: RAG AutoML tool for automatically finding an optimal RAG pipeline for your data.
+20. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) ⭐ 5,057 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-29: RAG AutoML tool for automatically finding an optimal RAG pipeline for your data.
 21. [RAGapp](https://github.com/ragapp/ragapp) ⭐ 4,442 | 🐛 67 | 🌐 TypeScript | 📅 2025-01-22: The easiest way to use Agentic RAG in any enterprise.
-22. [LightRAG](https://github.com/SylphAI-Inc/LightRAG) ⭐ 4,214 | 🐛 68 | 🌐 Python | 📅 2026-05-29: LightRAG helps developers with both building and optimizing Retriever-Agent-Generator pipelines.
+22. [LightRAG](https://github.com/SylphAI-Inc/LightRAG) ⭐ 4,213 | 🐛 68 | 🌐 Python | 📅 2026-05-29: LightRAG helps developers with both building and optimizing Retriever-Agent-Generator pipelines.
 23. [nano-GraphRAG](https://github.com/gusye1234/nano-graphrag) ⭐ 3,976 | 🐛 84 | 🌐 Python | 📅 2026-01-27: A simple, easy-to-hack GraphRAG implementation.
 24. [Fast-GraphRAG](https://github.com/circlemind-ai/fast-graphrag) ⭐ 3,848 | 🐛 38 | 🌐 Python | 📅 2025-11-01: RAG that intelligently adapts to your use case, data, and queries.
-25. [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) ⭐ 3,560 | 🐛 37 | 🌐 Python | 📅 2026-08-21: A Python Toolkit for Efficient RAG Research.
+25. [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) ⭐ 3,561 | 🐛 37 | 🌐 Python | 📅 2026-08-21: A Python Toolkit for Efficient RAG Research.
 26. [GraphRAG-Ollama-UI](https://github.com/severian42/GraphRAG-Ollama-UI) ⭐ 2,321 | 🐛 56 | 🌐 Python | 📅 2024-11-09: GraphRAG using Ollama with Gradio UI and Extra Features.
 27. [MiniRAG](https://github.com/HKUDS/MiniRAG) ⭐ 2,008 | 🐛 36 | 🌐 Python | 📅 2025-10-16: an extremely simple retrieval-augmented generation framework that enables small models to achieve good RAG performance through heterogeneous graph indexing and lightweight topology-enhanced retrieval.
 28. [CAG](https://github.com/hhhuang/CAG) ⭐ 1,536 | 🐛 8 | 🌐 Python | 📅 2025-05-26: CAG leverages the extended context windows of modern large language models (LLMs) by preloading all relevant resources into the model’s context and caching its runtime parameters.
@@ -360,49 +360,49 @@
 
 ## 智能体 Agents
 
-1. [AutoGen](https://github.com/microsoft/autogen) ⭐ 60,673 | 🐛 991 | 🌐 Python | 📅 2026-04-15: AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. [AutoGen AIStudio](https://autogen-studio.com/)
-2. [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,104 | 🐛 466 | 🌐 Python | 📅 2026-08-22: No fortress, purely open ground. OpenManus is Coming.
-3. [CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 57,742 | 🐛 766 | 🌐 Python | 📅 2026-08-28: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-4. [Agno](https://github.com/agno-agi/agno) ⭐ 41,957 | 🐛 1,271 | 🌐 Python | 📅 2026-08-28: Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
+1. [AutoGen](https://github.com/microsoft/autogen) ⭐ 60,680 | 🐛 992 | 🌐 Python | 📅 2026-04-15: AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. [AutoGen AIStudio](https://autogen-studio.com/)
+2. [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,111 | 🐛 466 | 🌐 Python | 📅 2026-08-22: No fortress, purely open ground. OpenManus is Coming.
+3. [CrewAI](https://github.com/joaomdmoura/crewAI) ⭐ 57,769 | 🐛 767 | 🌐 Python | 📅 2026-08-28: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+4. [Agno](https://github.com/agno-agi/agno) ⭐ 41,960 | 🐛 1,273 | 🌐 Python | 📅 2026-08-28: Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
 5. [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived: Assemble, configure, and deploy autonomous AI Agents in your browser.
-6. [AgentScope](https://github.com/modelscope/agentscope) ⭐ 29,927 | 🐛 361 | 🌐 Python | 📅 2026-08-28: Start building LLM-empowered multi-agent applications in an easier way.
-7. [AgentScope](https://github.com/modelscope/agentscope) ⭐ 29,927 | 🐛 361 | 🌐 Python | 📅 2026-08-28: Start building LLM-empowered multi-agent applications in an easier way.
-8. [smolagents](https://github.com/huggingface/smolagents) ⭐ 29,033 | 🐛 741 | 🌐 Python | 📅 2026-08-25: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
+6. [AgentScope](https://github.com/modelscope/agentscope) ⭐ 29,959 | 🐛 362 | 🌐 Python | 📅 2026-08-28: Start building LLM-empowered multi-agent applications in an easier way.
+7. [AgentScope](https://github.com/modelscope/agentscope) ⭐ 29,959 | 🐛 362 | 🌐 Python | 📅 2026-08-28: Start building LLM-empowered multi-agent applications in an easier way.
+8. [smolagents](https://github.com/huggingface/smolagents) ⭐ 29,038 | 🐛 743 | 🌐 Python | 📅 2026-08-25: a barebones library for agents. Agents write python code to call tools and orchestrate other agents.
 9. [Swarm](https://github.com/openai/swarm) ⭐ 21,929 | 🐛 35 | 🌐 Python | 📅 2026-04-15: Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
-10. [Hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,593 | 🐛 132 | 🌐 Python | 📅 2026-08-28: State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
-11. [coze-studio](https://github.com/coze-dev/coze-studio) ⭐ 21,513 | 🐛 564 | 🌐 TypeScript | 📅 2026-07-29: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
-12. [Suna](https://github.com/kortix-ai/suna) ⭐ 20,149 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28: Open Source Generalist AI Agent.
+10. [Hindsight](https://github.com/vectorize-io/hindsight) ⭐ 21,610 | 🐛 139 | 🌐 Python | 📅 2026-08-29: State-of-the-art long-term memory for AI agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, LlamaIndex, MCP, and more.
+11. [coze-studio](https://github.com/coze-dev/coze-studio) ⭐ 21,512 | 🐛 564 | 🌐 TypeScript | 📅 2026-07-29: An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
+12. [Suna](https://github.com/kortix-ai/suna) ⭐ 20,153 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-29: Open Source Generalist AI Agent.
 13. [OWL](https://github.com/camel-ai/owl) ⭐ 20,109 | 🐛 116 | 🌐 Python | 📅 2026-08-27: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation.
-14. [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 19,558 | 🐛 752 | 🌐 Python | 📅 2026-08-28: Agent Framework / shim to use Pydantic with LLMs.
-15. [Agent Zero](https://github.com/frdel/agent-zero) ⭐ 18,996 | 🐛 140 | 🌐 Python | 📅 2026-08-27: Agent Zero is not a predefined agentic framework. It is designed to be dynamic, organically growing, and learning as you use it.
-16. [CAMEL](https://github.com/camel-ai/camel) ⭐ 17,651 | 🐛 488 | 🌐 Python | 📅 2026-08-27: First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents.
-17. [rowboat](https://github.com/rowboatlabs/rowboat) ⭐ 17,434 | 🐛 165 | 🌐 TypeScript | 📅 2026-08-28: Let AI build multi-agent workflows for you in minutes.
-18. [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ⭐ 17,036 | 🐛 532 | 🌐 Python | 📅 2026-03-04: Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+14. [PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 19,567 | 🐛 749 | 🌐 Python | 📅 2026-08-29: Agent Framework / shim to use Pydantic with LLMs.
+15. [Agent Zero](https://github.com/frdel/agent-zero) ⭐ 19,005 | 🐛 141 | 🌐 Python | 📅 2026-08-27: Agent Zero is not a predefined agentic framework. It is designed to be dynamic, organically growing, and learning as you use it.
+16. [CAMEL](https://github.com/camel-ai/camel) ⭐ 17,652 | 🐛 488 | 🌐 Python | 📅 2026-08-27: First LLM multi-agent framework and an open-source community dedicated to finding the scaling law of agents.
+17. [rowboat](https://github.com/rowboatlabs/rowboat) ⭐ 17,436 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-28: Let AI build multi-agent workflows for you in minutes.
+18. [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) ⭐ 17,037 | 🐛 532 | 🌐 Python | 📅 2026-03-04: Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 19. [Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 12,202 | 🐛 42 | 🌐 Python | 📅 2026-08-01: an open agentic framework that uses computers like a human.
 20. [JoyAgent-JDGenie](https://github.com/jd-opensource/joyagent-jdgenie) ⭐ 11,884 | 🐛 218 | 🌐 Java | 📅 2026-02-12: 业界首个开源高完成度轻量化通用多智能体产品.
-21. [MobileAgent](https://github.com/X-PLUG/MobileAgent) ⭐ 9,147 | 🐛 195 | 🌐 Python | 📅 2026-07-07: The Powerful Mobile Device Operation Assistant Family.
-22. [PraisonAI](https://github.com/MervinPraison/PraisonAI/) ⭐ 8,973 | 🐛 55 | 🌐 Python | 📅 2026-08-28: PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
+21. [MobileAgent](https://github.com/X-PLUG/MobileAgent) ⭐ 9,148 | 🐛 195 | 🌐 Python | 📅 2026-07-07: The Powerful Mobile Device Operation Assistant Family.
+22. [PraisonAI](https://github.com/MervinPraison/PraisonAI/) ⭐ 8,977 | 🐛 56 | 🌐 Python | 📅 2026-08-29: PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 23. [Astron Agent](https://github.com/iflytek/astron-agent) ⭐ 8,903 | 🐛 41 | 🌐 Java | 📅 2026-08-28: Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 24. [XAgent](https://github.com/OpenBMB/XAgent) ⭐ 8,544 | 🐛 54 | 🌐 Python | 📅 2026-07-31: An Autonomous LLM Agent for Complex Task Solving.
-25. [MiroThinker](https://github.com/MiroMindAI/MiroThinker) ⭐ 8,361 | 🐛 2 | 🌐 Python | 📅 2026-07-06: an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+25. [MiroThinker](https://github.com/MiroMindAI/MiroThinker) ⭐ 8,362 | 🐛 2 | 🌐 Python | 📅 2026-07-06: an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
 26. [Agents](https://github.com/aiwaves-cn/agents) ⭐ 5,959 | 🐛 46 | 🌐 Python | 📅 2024-09-26: An Open-source Framework for Data-centric, Self-evolving Autonomous Language Agents.
-27. [Nexent](https://github.com/ModelEngine-Group/nexent) ⭐ 5,840 | 🐛 236 | 🌐 Python | 📅 2026-08-28: A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
-28. [SandBox](https://github.com/agent-infra/sandbox) ⭐ 5,797 | 🐛 70 | 🌐 Python | 📅 2026-08-25: All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
+27. [Nexent](https://github.com/ModelEngine-Group/nexent) ⭐ 5,841 | 🐛 235 | 🌐 Python | 📅 2026-08-29: A zero-code platform for auto-generating agents — no orchestration, no complex drag-and-drop required, using pure language to develop any agent you want.
+28. [SandBox](https://github.com/agent-infra/sandbox) ⭐ 5,798 | 🐛 70 | 🌐 Python | 📅 2026-08-25: All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 29. [Youtu-Agent](https://github.com/TencentCloudADP/youtu-agent) ⭐ 4,605 | 🐛 74 | 🌐 Python | 📅 2026-03-21: A simple yet powerful agent framework that delivers with open-source models.
 30. [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) ⭐ 4,569 | 🐛 23 | 🌐 Python | 📅 2026-08-28: First agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (produce analyst-grade research reports).
 31. [llama-agentic-system ](https://github.com/meta-llama/llama-agentic-system) ⚠️ Archived: Agentic components of the Llama Stack APIs.
-32. [OpenAgents](https://github.com/openagents-org/openagents) ⭐ 4,010 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-28: AI Agent Networks for Open Collaboration.
+32. [OpenAgents](https://github.com/openagents-org/openagents) ⭐ 4,013 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28: AI Agent Networks for Open Collaboration.
 33. [LazyLLM](https://github.com/LazyAGI/LazyLLM) ⭐ 3,880 | 🐛 43 | 🌐 Python | 📅 2026-08-27: 低代码构建多Agent大模型应用的开发工具
 34. [ii-agent](https://github.com/Intelligent-Internet/ii-agent) ⭐ 3,380 | 🐛 15 | 🌐 Python | 📅 2026-08-16: a new open-source framework to build and deploy intelligent agents.
-35. [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) ⭐ 3,270 | 🐛 21 | 🌐 Python | 📅 2026-08-27: Building a Self-Evolving Ecosystem of AI Agents.
+35. [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) ⭐ 3,271 | 🐛 21 | 🌐 Python | 📅 2026-08-27: Building a Self-Evolving Ecosystem of AI Agents.
 36. [MoA](https://github.com/togethercomputer/MoA) ⭐ 2,971 | 🐛 23 | 🌐 Python | 📅 2025-01-07: Mixture of Agents (MoA) is a novel approach that leverages the collective strengths of multiple LLMs to enhance performance, achieving state-of-the-art results.
 37. [OmAgent](https://github.com/om-ai-lab/OmAgent) ⭐ 2,665 | 🐛 21 | 🌐 Python | 📅 2025-03-19: A multimodal agent framework for solving complex tasks.
-38. [AgentField](https://github.com/Agent-Field/agentfield) ⭐ 2,532 | 🐛 44 | 🌐 Go | 📅 2026-08-28: Open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.
+38. [AgentField](https://github.com/Agent-Field/agentfield) ⭐ 2,536 | 🐛 45 | 🌐 Go | 📅 2026-08-29: Open-source control plane for building and operating AI agents like APIs at scale, with routing, memory, observability, identity, auth, and policy controls.
 39. [agentUniverse](https://github.com/alipay/agentUniverse) ⭐ 2,346 | 🐛 527 | 🌐 Python | 📅 2026-07-28: agentUniverse is a LLM multi-agent framework that allows developers to easily build multi-agent applications. Furthermore, through the community, they can exchange and share practices of patterns across different domains.
 40. [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh) ⭐ 2,331 | 🐛 20 | 🌐 Go | 📅 2026-08-03: The AI Agent Workforce Platform. Self-hostable multi-agent orchestration with remote AI workstations (AgentPods), PTY sandbox + git worktree isolation, channels-based agent collaboration, built-in Kanban, and per-pod MCP server. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode.
 41. [Lagent](https://github.com/InternLM/lagent) ⭐ 2,278 | 🐛 26 | 🌐 Python | 📅 2026-08-03: A lightweight framework for building LLM-based agents.
 42. [OxyGent](https://github.com/jd-opensource/OxyGent) ⭐ 2,066 | 🐛 29 | 🌐 Python | 📅 2026-07-21: An advanced Python framework that empowers developers to quickly build production-ready intelligent systems.
-43. [BitFun](https://github.com/GCWing/BitFun) ⭐ 1,849 | 🐛 146 | 🌐 Rust | 📅 2026-08-28: Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
+43. [BitFun](https://github.com/GCWing/BitFun) ⭐ 1,854 | 🐛 150 | 🌐 Rust | 📅 2026-08-29: Open-source agentic development environment with a Rust/Tauri desktop app and CLI for coding, research, office work, browser and desktop automation, extensible through MCP, Skills, and custom agents.
 44. [Cooragent](https://github.com/LeapLabTHU/cooragent) ⭐ 1,675 | 🐛 13 | 🌐 Python | 📅 2026-04-29: Cooragent is an AI agent collaboration community.
 45. [Tribe](https://github.com/StreetLamb/tribe) ⭐ 1,084 | 🐛 9 | 🌐 TypeScript | 📅 2025-10-27: No code tool to rapidly build and coordinate multi-agent teams.
 46. [Agentarium](https://github.com/Thytu/Agentarium) ⭐ 934 | 🐛 1 | 🌐 Python | 📅 2026-06-27: open-source framework for creating and managing simulations populated with AI-powered agents.
@@ -417,11 +417,11 @@
 
 #### Harness
 
-1. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 201,804 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27: Everything is a Plugin.
-2. [pi](https://github.com/earendil-works/pi) ⭐ 98,702 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-28: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
-3. [OpenSquilla](https://github.com/opensquilla/opensquilla) ⭐ 6,743 | 🐛 288 | 🌐 Python | 📅 2026-08-28: a token-efficient, microkernel AI agent.
-4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness) ⭐ 1,806 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-28: Your Automated Agent Builder, Right on Your Desktop / Server.
-5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent) ⭐ 1,208 | 🐛 3 | 🌐 Python | 📅 2026-08-28: an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
+1. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 202,254 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27: Everything is a Plugin.
+2. [pi](https://github.com/earendil-works/pi) ⭐ 98,820 | 🐛 138 | 🌐 TypeScript | 📅 2026-08-28: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI.
+3. [OpenSquilla](https://github.com/opensquilla/opensquilla) ⭐ 6,754 | 🐛 288 | 🌐 Python | 📅 2026-08-29: a token-efficient, microkernel AI agent.
+4. [PenguinHarness](https://github.com/Prism-Shadow/penguin-harness) ⭐ 1,807 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-28: Your Automated Agent Builder, Right on Your Desktop / Server.
+5. [FrontierAgent](https://github.com/ApodexAI/FrontierAgent) ⭐ 1,230 | 🐛 3 | 🌐 Python | 📅 2026-08-29: an open-source agent runtime, terminal product, and evaluation suite for long-horizon research and file-based work.
 
 <div align="right">
     <b><a href="#Contents">↥ back to top</a></b>
@@ -431,7 +431,7 @@
 
 #### 写作
 
-* claude-prism: <https://github.com/delibae/claude-prism> ⭐ 1,760 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-28
+* claude-prism: <https://github.com/delibae/claude-prism> ⭐ 1,762 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-28
 * PaperDebugger: <https://github.com/PaperDebugger/PaperDebugger> ⭐ 1,529 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-03
   * XtraGPT served as refiner: <https://github.com/Xtra-Computing/XtraGPT> ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-04-23
 * Chat Overleaf: <https://github.com/anuin-cat/chat-overleaf> ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-09
@@ -447,34 +447,34 @@
 
 #### PPT
 
-* PPT Master: <https://github.com/hugohe3/ppt-master> ⭐ 50,023 | 🐛 6 | 🌐 Python | 📅 2026-08-28
-* guizang-ppt-skill: <https://github.com/op7418/guizang-ppt-skill> ⭐ 25,103 | 🐛 40 | 🌐 HTML | 📅 2026-08-07
-* Kami: <https://github.com/tw93/kami> ⭐ 10,961 | 🐛 1 | 🌐 HTML | 📅 2026-08-25
-* dashiAI-ppt-skill: <https://github.com/chuspeeism/dashiAI-ppt-skill> ⭐ 6,718 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-30
-* PPTAgent: <https://github.com/icip-cas/PPTAgent> ⭐ 4,961 | 🐛 12 | 🌐 Python | 📅 2026-08-24
-* beautiful-html-templates: <https://github.com/zarazhangrui/beautiful-html-templates> ⭐ 4,398 | 🐛 1 | 🌐 HTML | 📅 2026-06-09
+* PPT Master: <https://github.com/hugohe3/ppt-master> ⭐ 50,064 | 🐛 6 | 🌐 Python | 📅 2026-08-28
+* guizang-ppt-skill: <https://github.com/op7418/guizang-ppt-skill> ⭐ 25,116 | 🐛 40 | 🌐 HTML | 📅 2026-08-07
+* Kami: <https://github.com/tw93/kami> ⭐ 10,967 | 🐛 1 | 🌐 HTML | 📅 2026-08-25
+* dashiAI-ppt-skill: <https://github.com/chuspeeism/dashiAI-ppt-skill> ⭐ 6,753 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-30
+* PPTAgent: <https://github.com/icip-cas/PPTAgent> ⭐ 4,963 | 🐛 12 | 🌐 Python | 📅 2026-08-24
+* beautiful-html-templates: <https://github.com/zarazhangrui/beautiful-html-templates> ⭐ 4,402 | 🐛 1 | 🌐 HTML | 📅 2026-06-09
 * LandPPT: <https://github.com/sligter/LandPPT> ⭐ 3,575 | 🐛 11 | 🌐 Python | 📅 2026-08-02
-* GordenSuperPPTSkills: <https://github.com/GordenSun/GordenSuperPPTSkills> ⭐ 1,818 | 🐛 1 | 🌐 Python | 📅 2026-06-07
-* Paper PPT Agent: <https://github.com/CRui5in/paper-ppt-agent> ⭐ 1,048 | 🐛 10 | 🌐 Python | 📅 2026-08-19
+* GordenSuperPPTSkills: <https://github.com/GordenSun/GordenSuperPPTSkills> ⭐ 1,820 | 🐛 1 | 🌐 Python | 📅 2026-06-07
+* Paper PPT Agent: <https://github.com/CRui5in/paper-ppt-agent> ⭐ 1,050 | 🐛 10 | 🌐 Python | 📅 2026-08-19
 
 #### 其他
 
-* PaperBanana: <https://github.com/dwzhu-pku/PaperBanana> ⭐ 7,009 | 🐛 18 | 🌐 Python | 📅 2026-06-25
-* AutoFigure-Edit: <https://github.com/ResearAI/AutoFigure-Edit> ⭐ 4,155 | 🐛 13 | 🌐 Python | 📅 2026-07-25
-* figures4papers: <https://github.com/ChenLiu-1996/figures4papers> ⭐ 4,038 | 🐛 1 | 🌐 Python | 📅 2026-08-20
+* PaperBanana: <https://github.com/dwzhu-pku/PaperBanana> ⭐ 7,012 | 🐛 18 | 🌐 Python | 📅 2026-06-25
+* AutoFigure-Edit: <https://github.com/ResearAI/AutoFigure-Edit> ⭐ 4,156 | 🐛 13 | 🌐 Python | 📅 2026-07-25
+* figures4papers: <https://github.com/ChenLiu-1996/figures4papers> ⭐ 4,046 | 🐛 1 | 🌐 Python | 📅 2026-08-20
 * Paper2Poster: <https://github.com/Paper2Poster/Paper2Poster> ⭐ 3,926 | 🐛 27 | 🌐 Python | 📅 2026-06-08
 * Paper2Video: <https://github.com/showlab/Paper2Video> ⭐ 2,369 | 🐛 4 | 🌐 Python | 📅 2026-03-05
-* Academic Figure Generator: <https://github.com/LigphiDonk/academic-figure-generator> ⭐ 2,198 | 🐛 6 | 🌐 Python | 📅 2026-03-27
+* Academic Figure Generator: <https://github.com/LigphiDonk/academic-figure-generator> ⭐ 2,200 | 🐛 6 | 🌐 Python | 📅 2026-03-27
 * AutoFigure: <https://github.com/ResearAI/AutoFigure> ⭐ 1,850 | 🐛 12 | 🌐 TypeScript | 📅 2026-06-26
   * EditDeck: <https://github.com/Morgensonne/EditDeck> ⭐ 1,201 | 🐛 4 | 🌐 Python | 📅 2026-04-27
   * FigureWeave: <https://github.com/Krisocer/FigureWeave> ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2026-04-09
-* Idea2Paper: <https://github.com/AgentAlphaAGI/Idea2Paper> ⭐ 1,433 | 🐛 11 | 🌐 Python | 📅 2026-03-24
+* Idea2Paper: <https://github.com/AgentAlphaAGI/Idea2Paper> ⭐ 1,434 | 🐛 11 | 🌐 Python | 📅 2026-03-24
 * AutoPR: <https://github.com/irgolic/AutoPR> ⚠️ Archived
 * Auto-Slides: <https://github.com/Westlake-AGI-Lab/Auto-Slides> ⭐ 527 | 🐛 14 | 🌐 Python | 📅 2026-03-17
 * pdf2video: <https://github.com/DangJin/pdf2video> ⭐ 388 | 🐛 2 | 🌐 TypeScript | 📅 2026-01-26
 * Paper2All: <https://github.com/YuhangChen1/Paper2All> ⭐ 385 | 🐛 5 | 🌐 Python | 📅 2025-10-24
 * EvoPresent: <https://github.com/eric-ai-lab/EvoPresent> ⭐ 347 | 🐛 2 | 🌐 Python | 📅 2026-05-12
-* PaperFit: <https://github.com/OpenRaiser/PaperFit> ⭐ 323 | 🐛 1 | 🌐 TeX | 📅 2026-06-22
+* PaperFit: <https://github.com/OpenRaiser/PaperFit> ⭐ 324 | 🐛 1 | 🌐 TeX | 📅 2026-06-22
 * AutoPage: <https://github.com/AutoLab-SAI-SJTU/AutoPage> ⭐ 169 | 🐛 3 | 🌐 HTML | 📅 2026-08-04
 * PaperBanana-Pro: <https://github.com/elpsykongloo/PaperBanana-Pro> ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2026-05-19
 * PaperX: <https://github.com/yutao1024/PaperX> ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-04-13
@@ -482,26 +482,26 @@
 
 #### 全自动科研
 
-* AutoResearch : <https://github.com/karpathy/autoresearch> ⭐ 94,847 | 🐛 194 | 🌐 Python | 📅 2026-03-26
-* academic-research-skills: <https://github.com/Imbad0202/academic-research-skills> ⭐ 44,069 | 🐛 18 | 🌐 Python | 📅 2026-08-27
-* claude-scientific-skills: <https://github.com/K-Dense-AI/claude-scientific-skills> ⭐ 36,161 | 🐛 13 | 🌐 Python | 📅 2026-08-24
-* Auto-claude-code-research-in-sleep: <https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep> ⭐ 15,386 | 🐛 62 | 🌐 Python | 📅 2026-08-26
-* RD-Agent : <https://github.com/microsoft/RD-Agent> ⭐ 14,353 | 🐛 199 | 🌐 Python | 📅 2026-08-04
-* AutoResearchClaw: <https://github.com/aiming-lab/AutoResearchClaw> ⭐ 14,266 | 🐛 8 | 🌐 Python | 📅 2026-08-19
-* Supervisor-Skills: <https://github.com/HKUSTDial/Supervisor-Skills> ⭐ 6,092 | 🐛 2 | 🌐 Python | 📅 2026-08-07
-* Claude-scholar: <https://github.com/Galaxy-Dawn/claude-scholar/> ⭐ 5,243 | 🐛 3 | 🌐 Python | 📅 2026-08-27
-* EvoScientist: <https://github.com/EvoScientist/EvoScientist> ⭐ 4,521 | 🐛 35 | 🌐 Python | 📅 2026-08-27
+* AutoResearch : <https://github.com/karpathy/autoresearch> ⭐ 94,873 | 🐛 194 | 🌐 Python | 📅 2026-03-26
+* academic-research-skills: <https://github.com/Imbad0202/academic-research-skills> ⭐ 44,101 | 🐛 19 | 🌐 Python | 📅 2026-08-27
+* claude-scientific-skills: <https://github.com/K-Dense-AI/claude-scientific-skills> ⭐ 36,802 | 🐛 16 | 🌐 Python | 📅 2026-08-28
+* Auto-claude-code-research-in-sleep: <https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep> ⭐ 15,400 | 🐛 62 | 🌐 Python | 📅 2026-08-26
+* RD-Agent : <https://github.com/microsoft/RD-Agent> ⭐ 14,357 | 🐛 199 | 🌐 Python | 📅 2026-08-04
+* AutoResearchClaw: <https://github.com/aiming-lab/AutoResearchClaw> ⭐ 14,270 | 🐛 8 | 🌐 Python | 📅 2026-08-19
+* Supervisor-Skills: <https://github.com/HKUSTDial/Supervisor-Skills> ⭐ 6,097 | 🐛 2 | 🌐 Python | 📅 2026-08-07
+* Claude-scholar: <https://github.com/Galaxy-Dawn/claude-scholar/> ⭐ 5,246 | 🐛 3 | 🌐 Python | 📅 2026-08-27
+* EvoScientist: <https://github.com/EvoScientist/EvoScientist> ⭐ 4,530 | 🐛 35 | 🌐 Python | 📅 2026-08-29
 * DeepScientist : <https://github.com/ResearAI/DeepScientist> ⭐ 3,297 | 🐛 15 | 🌐 TypeScript | 📅 2026-06-28
-* NanoResearch: <https://github.com/OpenRaiser/NanoResearch> ⭐ 1,359 | 🐛 7 | 🌐 Python | 📅 2026-08-25
-* Deep Researcher Agent: <https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7> ⭐ 1,284 | 🐛 16 | 🌐 Python | 📅 2026-06-03
-* K-Dense BYOK: <https://github.com/K-Dense-AI/k-dense-byok> ⭐ 1,070 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27
+* NanoResearch: <https://github.com/OpenRaiser/NanoResearch> ⭐ 1,360 | 🐛 7 | 🌐 Python | 📅 2026-08-25
+* Deep Researcher Agent: <https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7> ⭐ 1,285 | 🐛 16 | 🌐 Python | 📅 2026-06-03
+* K-Dense BYOK: <https://github.com/K-Dense-AI/k-dense-byok> ⭐ 1,073 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27
 * Dr.Claw: <https://github.com/OpenLAIR/dr-claw> ⭐ 1,050 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-26
 * EurekaClaw: <https://github.com/EurekaClaw/EurekaClaw> ⭐ 697 | 🐛 6 | 🌐 Python | 📅 2026-06-13
 * ScienceClaw: <https://github.com/AgentTeam-TaichuAI/ScienceClaw> ⭐ 658 | 🐛 13 | 🌐 Python | 📅 2026-05-09
-* ArgusBot: <https://github.com/waltstephen/ArgusBot> ⭐ 314 | 🐛 0 | 🌐 Python | 📅 2026-04-26
+* ArgusBot: <https://github.com/waltstephen/ArgusBot> ⭐ 315 | 🐛 0 | 🌐 Python | 📅 2026-04-26
 * latex-paper-skills: <https://github.com/yunshenwuchuxun/latex-paper-skills> ⭐ 253 | 🐛 0 | 🌐 TeX | 📅 2026-03-25
 * NeuriCo: <https://github.com/ChicagoHAI/NeuriCo> ⭐ 156 | 🐛 55 | 🌐 Python | 📅 2026-08-27
-* Station: <https://github.com/dualverse-ai/station> ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2026-08-26
+* Station: <https://github.com/dualverse-ai/station> ⭐ 137 | 🐛 1 | 🌐 Python | 📅 2026-08-26
 * Redigg: <https://github.com/redigg/redigg> ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-28
 
 <div align="right">
@@ -510,21 +510,21 @@
 
 ## 代码 Coding
 
-1. [opencode](https://github.com/anomalyco/opencode) ⭐ 202,143 | 🐛 5,693 | 🌐 TypeScript | 📅 2026-08-28
-2. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 201,804 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27
-3. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) ⭐ 143,282 | 🐛 15,296 | 🌐 Python | 📅 2026-08-28
-4. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) ⭐ 143,282 | 🐛 15,296 | 🌐 Python | 📅 2026-08-28 + [Happy Coder](https://github.com/slopus/happy) ⭐ 23,536 | 🐛 970 | 🌐 TypeScript | 📅 2026-08-28 / [CodePilot](https://github.com/op7418/CodePilot) ⭐ 6,434 | 🐛 410 | 🌐 TypeScript | 📅 2026-08-26 / [cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,234 | 🐛 547 | 🌐 Go | 📅 2026-08-28
-5. [CodeX (`🔥`)](https://github.com/openai/codex) ⭐ 119,508 | 🐛 14,237 | 🌐 Rust | 📅 2026-08-28
-6. [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 106,720 | 🐛 861 | 🌐 TypeScript | 📅 2026-08-28
-7. [cline](https://github.com/cline/cline) ⭐ 67,069 | 🐛 1,131 | 🌐 TypeScript | 📅 2026-08-28
-8. [Multica](https://github.com/multica-ai/multica) ⭐ 48,124 | 🐛 1,375 | 🌐 Go | 📅 2026-08-28
-9. [Serena](https://github.com/oraios/serena) ⭐ 28,573 | 🐛 153 | 🌐 Python | 📅 2026-08-20
-10. [Kilo Code](https://github.com/Kilo-Org/kilocode) ⭐ 27,050 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-28
+1. [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 202,254 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27
+2. [opencode](https://github.com/anomalyco/opencode) ⭐ 202,233 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-29
+3. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) ⭐ 143,319 | 🐛 15,352 | 🌐 Python | 📅 2026-08-28
+4. [Claude Code (`🔥`)](https://github.com/anthropics/claude-code) ⭐ 143,319 | 🐛 15,352 | 🌐 Python | 📅 2026-08-28 + [Happy Coder](https://github.com/slopus/happy) ⭐ 23,541 | 🐛 970 | 🌐 TypeScript | 📅 2026-08-28 / [CodePilot](https://github.com/op7418/CodePilot) ⭐ 6,435 | 🐛 410 | 🌐 TypeScript | 📅 2026-08-29 / [cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,241 | 🐛 545 | 🌐 Go | 📅 2026-08-29
+5. [CodeX (`🔥`)](https://github.com/openai/codex) ⭐ 119,609 | 🐛 14,298 | 🌐 Rust | 📅 2026-08-29
+6. [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 106,735 | 🐛 867 | 🌐 TypeScript | 📅 2026-08-29
+7. [cline](https://github.com/cline/cline) ⭐ 67,092 | 🐛 1,139 | 🌐 TypeScript | 📅 2026-08-29
+8. [Multica](https://github.com/multica-ai/multica) ⭐ 48,157 | 🐛 1,377 | 🌐 Go | 📅 2026-08-28
+9. [Serena](https://github.com/oraios/serena) ⭐ 28,584 | 🐛 153 | 🌐 Python | 📅 2026-08-20
+10. [Kilo Code](https://github.com/Kilo-Org/kilocode) ⭐ 27,056 | 🐛 583 | 🌐 TypeScript | 📅 2026-08-28
 11. [Roo Code](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived
 12. [Claudia](https://github.com/getAsterisk/claudia) ⭐ 22,382 | 🐛 332 | 🌐 TypeScript | 📅 2025-10-16
 13. [OpenCode](https://github.com/opencode-ai/opencode) ⚠️ Archived
-14. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli) ⭐ 11,280 | 🐛 837 | 🌐 Python | 📅 2026-08-03
-15. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) ⭐ 2,434 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-28
+14. [Kimi-CLI](https://github.com/MoonshotAI/kimi-cli) ⭐ 11,282 | 🐛 838 | 🌐 Python | 📅 2026-08-03
+15. [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) ⭐ 2,444 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-28
 16. [Cloi CLI](https://github.com/cloi-ai/cloi) ⭐ 408 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-11: Local debugging agent that runs in your terminal.
 17. [Devin](https://devin.ai/)
 18. [v0](https://v0.dev/)
@@ -547,23 +547,23 @@
 #### 模型
 
 > \[!NOTE]
-> 🤝[Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) ⭐ 5,761 | 🐛 3 | 📅 2026-08-24
+> 🤝[Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) ⭐ 5,762 | 🐛 4 | 📅 2026-08-24
 
-1. [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,317 | 🐛 13 | 🌐 Python | 📅 2026-04-09
-2. [Wan2.2](https://github.com/Wan-Video/Wan2.2) ⭐ 17,316 | 🐛 294 | 🌐 Python | 📅 2026-03-17
+1. [Open-Sora](https://github.com/hpcaitech/Open-Sora) ⭐ 29,319 | 🐛 13 | 🌐 Python | 📅 2026-04-09
+2. [Wan2.2](https://github.com/Wan-Video/Wan2.2) ⭐ 17,321 | 🐛 294 | 🌐 Python | 📅 2026-03-17
 3. [FramePack](https://github.com/lllyasviel/FramePack) ⭐ 17,230 | 🐛 488 | 🌐 Python | 📅 2025-10-16
-4. [Wan2.1](https://github.com/Wan-Video/Wan2.1) ⭐ 16,904 | 🐛 378 | 🌐 Python | 📅 2026-03-05
+4. [Wan2.1](https://github.com/Wan-Video/Wan2.1) ⭐ 16,905 | 🐛 378 | 🌐 Python | 📅 2026-03-05
 5. [CogVideo](https://github.com/THUDM/CogVideo) ⭐ 12,982 | 🐛 117 | 🌐 Python | 📅 2025-11-04
-6. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) ⭐ 12,488 | 🐛 183 | 🌐 Python | 📅 2026-06-29
-7. [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ⭐ 12,175 | 🐛 267 | 🌐 Python | 📅 2026-03-08
+6. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) ⭐ 12,490 | 🐛 183 | 🌐 Python | 📅 2026-06-29
+7. [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) ⭐ 12,184 | 🐛 267 | 🌐 Python | 📅 2026-03-08
 8. [LTX-Video](https://github.com/Lightricks/LTX-Video) ⭐ 10,912 | 🐛 99 | 🌐 Python | 📅 2026-01-05
 9. [SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) ⭐ 7,469 | 🐛 351 | 🌐 Python | 📅 2026-01-29
-10. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 4,536 | 🐛 37 | 🌐 Python | 📅 2026-04-10
+10. [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5) ⭐ 4,537 | 🐛 37 | 🌐 Python | 📅 2026-04-10
 11. [MAGI-1](https://github.com/SandAI-org/MAGI-1) ⭐ 3,774 | 🐛 46 | 🌐 Python | 📅 2026-06-17 `自回归模型`
 12. [Step-Video-T2V](https://github.com/stepfun-ai/Step-Video-T2V) ⭐ 3,187 | 🐛 47 | 🌐 Python | 📅 2025-03-17
 13. [LongLive](https://github.com/NVlabs/LongLive) ⭐ 2,565 | 🐛 20 | 🌐 Python | 📅 2026-08-07
 14. [Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) ⭐ 2,256 | 🐛 32 | 🌐 Python | 📅 2026-04-29 `Editing`
-15. [ICEdit](https://github.com/River-Zhang/ICEdit) ⭐ 2,102 | 🐛 23 | 🌐 Python | 📅 2025-12-19 `Editing`
+15. [ICEdit](https://github.com/River-Zhang/ICEdit) ⭐ 2,103 | 🐛 23 | 🌐 Python | 📅 2025-12-19 `Editing`
 16. [JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo) ⭐ 1,968 | 🐛 7 | 🌐 Python | 📅 2026-08-28
 17. [Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) ⭐ 686 | 🐛 28 | 🌐 Python | 📅 2026-02-13
 18. [Wan2.1-VACE](https://huggingface.co/Wan-AI/Wan2.1-VACE-14B) `Editing`
@@ -573,7 +573,7 @@
 22. [MoGA](https://arxiv.org/pdf/2510.18692) `长视频`
 23. [LongCat-Video](https://huggingface.co/meituan-longcat/LongCat-Video)
 24. [LTX-2](https://huggingface.co/Lightricks/LTX-2)
-    * [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md) ⭐ 9,283 | 🐛 38 | 🌐 Python | 📅 2026-08-26
+    * [Training](https://github.com/Lightricks/LTX-2/blob/main/packages/ltx-trainer/README.md) ⭐ 9,288 | 🐛 37 | 🌐 Python | 📅 2026-08-26
 25. [daVinci-MagiHuman](https://huggingface.co/GAIR/daVinci-MagiHuman)
 26. [NAVA](https://huggingface.co/baidu/NAVA)
 27. [LTX-2.3 (`🔥`)](https://huggingface.co/Lightricks/LTX-2.3)
@@ -584,21 +584,21 @@
 
 #### 编辑
 
-1. Bernini (`🔥`): <https://github.com/bytedance/Bernini> ⭐ 1,288 | 🐛 30 | 🌐 Python | 📅 2026-08-13
+1. Bernini (`🔥`): <https://github.com/bytedance/Bernini> ⭐ 1,289 | 🐛 30 | 🌐 Python | 📅 2026-08-13
 2. Ditto: <https://github.com/EzioBy/Ditto> ⭐ 624 | 🐛 21 | 🌐 Python | 📅 2026-06-01
 3. Wan2.1-VACE-14B: <https://huggingface.co/Wan-AI/Wan2.1-VACE-14B>
 4. JoyAI-Video-Edit: <https://huggingface.co/jdopensource/JoyAI-Video-Edit>
 
 #### 训练
 
-* <https://github.com/huggingface/diffusers> ⭐ 34,401 | 🐛 1,395 | 🌐 Python | 📅 2026-08-28
-* (`🔥`) <https://github.com/modelscope/DiffSynth-Studio> ⭐ 13,015 | 🐛 558 | 🌐 Python | 📅 2026-08-28
-* <https://github.com/hao-ai-lab/FastVideo> ⭐ 4,089 | 🐛 160 | 🌐 Python | 📅 2026-08-28
-* <https://github.com/bghira/SimpleTuner> ⭐ 2,911 | 🐛 8 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/huggingface/diffusers> ⭐ 34,403 | 🐛 1,397 | 🌐 Python | 📅 2026-08-29
+* (`🔥`) <https://github.com/modelscope/DiffSynth-Studio> ⭐ 13,017 | 🐛 558 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/hao-ai-lab/FastVideo> ⭐ 4,114 | 🐛 160 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/bghira/SimpleTuner> ⭐ 2,911 | 🐛 7 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/tdrussell/diffusion-pipe> ⭐ 2,015 | 🐛 274 | 🌐 Python | 📅 2026-08-20
 * <https://github.com/kohya-ss/musubi-tuner> ⭐ 2,006 | 🐛 362 | 🌐 Python | 📅 2026-08-27
 * <https://github.com/shengshu-ai/minWM> ⭐ 802 | 🐛 11 | 🌐 Python | 📅 2026-06-15 `world model`
-* <https://github.com/X-GenGroup/Flow-Factory> ⭐ 683 | 🐛 43 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/X-GenGroup/Flow-Factory> ⭐ 683 | 🐛 43 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/VideoVerses/VideoTuna> ⭐ 553 | 🐛 13 | 🌐 Python | 📅 2025-09-15
 * <https://github.com/spacepxl/HunyuanVideo-Training> ⭐ 82 | 🐛 4 | 🌐 Python | 📅 2025-03-02
 * <https://github.com/Tele-AI/TeleTron> ⭐ 76 | 🐛 3 | 🌐 Python | 📅 2025-08-08
@@ -607,7 +607,7 @@
 #### 推理
 
 * <https://github.com/thu-ml/TurboDiffusion> ⭐ 3,628 | 🐛 80 | 🌐 Python | 📅 2026-08-27
-* <https://github.com/ModelTC/LightX2V> ⭐ 2,742 | 🐛 187 | 🌐 Python | 📅 2026-08-28
+* <https://github.com/ModelTC/LightX2V> ⭐ 2,744 | 🐛 187 | 🌐 Python | 📅 2026-08-28
 
 #### 实用工具
 
@@ -623,11 +623,11 @@
 
 #### 生成
 
-* [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) ⭐ 23,592 | 🐛 23 | 📅 2025-12-12
+* [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) ⭐ 23,596 | 🐛 23 | 📅 2025-12-12
 * [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) ⭐ 8,819 | 🐛 1 | 🌐 JavaScript | 📅 2025-09-08
-* SenseNova-U1: <https://github.com/OpenSenseNova/SenseNova-U1> ⭐ 5,761 | 🐛 39 | 🌐 Python | 📅 2026-08-28
+* SenseNova-U1: <https://github.com/OpenSenseNova/SenseNova-U1> ⭐ 5,774 | 🐛 40 | 🌐 Python | 📅 2026-08-28
 * HunyuanImage-3.0：<https://github.com/Tencent-Hunyuan/HunyuanImage-3.0> ⭐ 3,254 | 🐛 52 | 🌐 Python | 📅 2026-06-23
-* Ideogram 4: <https://github.com/ideogram-oss/ideogram4> ⭐ 2,775 | 🐛 27 | 🌐 Python | 📅 2026-06-30
+* Ideogram 4: <https://github.com/ideogram-oss/ideogram4> ⭐ 2,776 | 🐛 27 | 🌐 Python | 📅 2026-06-30
 * Boogu-Image: <https://github.com/boogu-project/Boogu-Image> ⭐ 975 | 🐛 27 | 🌐 Python | 📅 2026-07-23
 * Seedream 4.0：<https://arxiv.org/abs/2509.20427>
 * LongCat-Image：<https://huggingface.co/meituan-longcat/LongCat-Image>
@@ -668,15 +668,15 @@
 
 #### 训练
 
-* (`🔥`) DiffSynth-Studio：<https://github.com/modelscope/DiffSynth-Studio> ⭐ 13,015 | 🐛 558 | 🌐 Python | 📅 2026-08-28
-* Ostris：<https://github.com/ostris/ai-toolkit> ⭐ 11,845 | 🐛 130 | 🌐 Python | 📅 2026-08-27
+* (`🔥`) DiffSynth-Studio：<https://github.com/modelscope/DiffSynth-Studio> ⭐ 13,017 | 🐛 558 | 🌐 Python | 📅 2026-08-28
+* Ostris：<https://github.com/ostris/ai-toolkit> ⭐ 11,846 | 🐛 133 | 🌐 Python | 📅 2026-08-27
 * OneTrainer: <https://github.com/Nerogar/OneTrainer> ⭐ 3,189 | 🐛 160 | 🌐 Python | 📅 2026-08-24
-* SimpleTuner: <https://github.com/bghira/SimpleTuner> ⭐ 2,911 | 🐛 8 | 🌐 Python | 📅 2026-08-28
+* SimpleTuner: <https://github.com/bghira/SimpleTuner> ⭐ 2,911 | 🐛 7 | 🌐 Python | 📅 2026-08-29
 * Musubi Tuner: <https://github.com/kohya-ss/musubi-tuner> ⭐ 2,006 | 🐛 362 | 🌐 Python | 📅 2026-08-27
-* UniRL: <https://github.com/Tencent-Hunyuan/UniRL> ⭐ 917 | 🐛 71 | 🌐 Python | 📅 2026-08-28
+* UniRL: <https://github.com/Tencent-Hunyuan/UniRL> ⭐ 918 | 🐛 70 | 🌐 Python | 📅 2026-08-28
 * FlymyAI：<https://github.com/FlyMyAI/flymyai-lora-trainer> ⭐ 767 | 🐛 20 | 🌐 Python | 📅 2025-12-16
 * Finetune LongCat-Image and Edit: <https://github.com/meituan-longcat/LongCat-Image/tree/main/train_examples> ⭐ 724 | 🐛 13 | 🌐 Python | 📅 2026-05-09
-* Flow-Factory: <https://github.com/X-GenGroup/Flow-Factory> ⭐ 683 | 🐛 43 | 🌐 Python | 📅 2026-08-28
+* Flow-Factory: <https://github.com/X-GenGroup/Flow-Factory> ⭐ 683 | 🐛 43 | 🌐 Python | 📅 2026-08-29
 * Nitro-T：<https://github.com/AMD-AGI/Nitro-T> ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-06-04
 * Finetune HunyuanImage-3.0: <https://github.com/PhotonAISG/hunyuan-image3-finetune> ⭐ 38 | 🐛 3 | 🌐 Python | 📅 2026-08-23
 * MS Training: <https://www.modelscope.cn/aigc/modelTraining>
@@ -709,22 +709,22 @@
 
 #### TTS
 
-1. GPT-SoVITS：<https://github.com/RVC-Boss/GPT-SoVITS> ⭐ 61,307 | 🐛 890 | 🌐 Python | 📅 2026-08-18
-2. VibeVoice: <https://github.com/microsoft/VibeVoice> ⭐ 53,295 | 🐛 185 | 🌐 Python | 📅 2026-07-24
-3. ChatTTS：<https://github.com/2noise/ChatTTS> ⭐ 39,803 | 🐛 60 | 🌐 Python | 📅 2026-04-10
-4. Bark：<https://github.com/suno-ai/bark> ⭐ 39,254 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2024-08-19
-5. OpenVoice：<https://github.com/myshell-ai/OpenVoice> ⭐ 37,340 | 🐛 307 | 🌐 Python | 📅 2025-04-19
-6. VoxCPM: <https://github.com/OpenBMB/VoxCPM/> ⭐ 36,215 | 🐛 112 | 🌐 Python | 📅 2026-08-26
-7. Fish Speech：<https://github.com/fishaudio/fish-speech> ⭐ 32,434 | 🐛 15 | 🌐 Python | 📅 2026-08-22
-8. Index-TTS：<https://github.com/index-tts/index-tts> ⭐ 23,561 | 🐛 399 | 🌐 Python | 📅 2026-08-18
-9. CosyVoice：<https://github.com/FunAudioLLM/CosyVoice> ⭐ 22,958 | 🐛 709 | 🌐 Python | 📅 2026-05-25
+1. GPT-SoVITS：<https://github.com/RVC-Boss/GPT-SoVITS> ⭐ 61,309 | 🐛 888 | 🌐 Python | 📅 2026-08-18
+2. VibeVoice: <https://github.com/microsoft/VibeVoice> ⭐ 53,312 | 🐛 184 | 🌐 Python | 📅 2026-07-24
+3. ChatTTS：<https://github.com/2noise/ChatTTS> ⭐ 39,802 | 🐛 60 | 🌐 Python | 📅 2026-04-10
+4. Bark：<https://github.com/suno-ai/bark> ⭐ 39,255 | 🐛 268 | 🌐 Jupyter Notebook | 📅 2024-08-19
+5. OpenVoice：<https://github.com/myshell-ai/OpenVoice> ⭐ 37,346 | 🐛 307 | 🌐 Python | 📅 2025-04-19
+6. VoxCPM: <https://github.com/OpenBMB/VoxCPM/> ⭐ 36,224 | 🐛 112 | 🌐 Python | 📅 2026-08-26
+7. Fish Speech：<https://github.com/fishaudio/fish-speech> ⭐ 32,446 | 🐛 14 | 🌐 Python | 📅 2026-08-22
+8. Index-TTS：<https://github.com/index-tts/index-tts> ⭐ 23,567 | 🐛 399 | 🌐 Python | 📅 2026-08-18
+9. CosyVoice：<https://github.com/FunAudioLLM/CosyVoice> ⭐ 22,964 | 🐛 708 | 🌐 Python | 📅 2026-05-25
 10. Dia：<https://github.com/nari-labs/dia> ⭐ 19,385 | 🐛 91 | 🌐 Python | 📅 2025-11-19
-11. KittenTTS: <https://github.com/KittenML/KittenTTS> ⭐ 15,411 | 🐛 121 | 🌐 Python | 📅 2026-08-19
-12. F5-TTS：<https://github.com/SWivid/F5-TTS> ⭐ 15,170 | 🐛 61 | 🌐 Python | 📅 2026-07-23
+11. KittenTTS: <https://github.com/KittenML/KittenTTS> ⭐ 15,412 | 🐛 121 | 🌐 Python | 📅 2026-08-19
+12. F5-TTS：<https://github.com/SWivid/F5-TTS> ⭐ 15,171 | 🐛 61 | 🌐 Python | 📅 2026-07-23
 13. Edge-TTS：<https://github.com/rany2/edge-tts> ⭐ 11,813 | 🐛 4 | 🌐 Python | 📅 2026-03-22
 14. Spark-TTS：<https://github.com/SparkAudio/Spark-TTS> ⭐ 11,005 | 🐛 201 | 🌐 Python | 📅 2025-04-09
-15. OmniVoice: <https://github.com/k2-fsa/OmniVoice> ⭐ 9,507 | 🐛 53 | 🌐 Python | 📅 2026-08-24
-16. kokoro: <https://github.com/hexgrad/kokoro> ⭐ 8,593 | 🐛 205 | 🌐 JavaScript | 📅 2025-08-06
+15. OmniVoice: <https://github.com/k2-fsa/OmniVoice> ⭐ 9,514 | 🐛 53 | 🌐 Python | 📅 2026-08-24
+16. kokoro: <https://github.com/hexgrad/kokoro> ⭐ 8,596 | 🐛 205 | 🌐 JavaScript | 📅 2025-08-06
 17. Higgs Audio V2: <https://github.com/boson-ai/higgs-audio> ⭐ 8,331 | 🐛 102 | 🌐 Python | 📅 2026-06-05 【[Training](https://github.com/JimmyMa99/train-higgs-audio) ⭐ 120 | 🐛 0 | 🌐 Python | 📅 2025-09-04】
 18. Neutts-Air: <https://github.com/neuphonic/neutts-air> ⭐ 6,256 | 🐛 37 | 🌐 Python | 📅 2026-07-30
 19. MegaTTS3：<https://github.com/bytedance/MegaTTS3> ⭐ 6,091 | 🐛 89 | 🌐 Python | 📅 2026-06-15
@@ -732,7 +732,7 @@
 21. Moss-TTSD：<https://github.com/OpenMOSS/MOSS-TTSD> ⭐ 1,390 | 🐛 53 | 🌐 Python | 📅 2026-07-26
 22. GLM-TTS: <https://github.com/zai-org/GLM-TTS> ⭐ 1,056 | 🐛 46 | 🌐 Python | 📅 2026-04-10
 23. ZipVoice: <https://github.com/k2-fsa/ZipVoice> ⭐ 1,046 | 🐛 40 | 🌐 Python | 📅 2025-12-02
-24. Confucius4-TTS: <https://github.com/netease-youdao/Confucius4-TTS> ⭐ 783 | 🐛 11 | 🌐 Python | 📅 2026-08-18
+24. Confucius4-TTS: <https://github.com/netease-youdao/Confucius4-TTS> ⭐ 784 | 🐛 11 | 🌐 Python | 📅 2026-08-18
 25. SpeechGPT-2.0-preview: <https://github.com/OpenMOSS/SpeechGPT-2.0-preview> ⭐ 375 | 🐛 8 | 🌐 Python | 📅 2025-01-27
 26. Ming-Omni-TTS: <https://github.com/inclusionAI/Ming-omni-tts> ⭐ 264 | 🐛 12 | 🌐 Python | 📅 2026-02-26
 27. VyvoTTS: <https://github.com/Vyvo-Labs/VyvoTTS> ⭐ 261 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-08-09
@@ -748,13 +748,13 @@
 
 #### STT/ASR
 
-1. Whisper: <https://github.com/openai/whisper> ⭐ 108,066 | 🐛 136 | 🌐 Python | 📅 2026-07-28
-2. FunASR: <https://github.com/modelscope/FunASR> ⭐ 20,060 | 🐛 5 | 🌐 Python | 📅 2026-08-28
+1. Whisper: <https://github.com/openai/whisper> ⭐ 108,089 | 🐛 136 | 🌐 Python | 📅 2026-07-28
+2. FunASR: <https://github.com/modelscope/FunASR> ⭐ 20,062 | 🐛 5 | 🌐 Python | 📅 2026-08-29
 3. SenseVoice: <https://github.com/FunAudioLLM/SenseVoice> ⭐ 9,164 | 🐛 1 | 🌐 C | 📅 2026-08-27
 4. Qwen3-ASR: <https://github.com/QwenLM/Qwen3-ASR> ⭐ 3,442 | 🐛 27 | 🌐 Python | 📅 2026-06-26
 5. Kyutai: <https://github.com/kyutai-labs/delayed-streams-modeling> ⭐ 3,017 | 🐛 36 | 🌐 Python | 📅 2026-01-26
 6. Omnilingual ASR: <https://github.com/facebookresearch/omnilingual-asr> ⭐ 2,901 | 🐛 41 | 🌐 Python | 📅 2025-12-30
-7. Step-Audio2: <https://github.com/stepfun-ai/Step-Audio2> ⭐ 1,503 | 🐛 55 | 🌐 Python | 📅 2026-03-16
+7. Step-Audio2: <https://github.com/stepfun-ai/Step-Audio2> ⭐ 1,504 | 🐛 55 | 🌐 Python | 📅 2026-03-16
 8. Mega-ASR: <https://github.com/xzf-thu/Mega-ASR> ⭐ 1,133 | 🐛 26 | 🌐 Python | 📅 2026-06-02
 9. Audio Flamingo 3: <https://huggingface.co/nvidia/audio-flamingo-3>
 10. Voxtral: <https://huggingface.co/mistralai/Voxtral-Mini-3B-2507>
@@ -787,7 +787,7 @@
 * Warp-as-History: <https://github.com/yyfz/Warp-as-History> ⭐ 226 | 🐛 2 | 🌐 Python | 📅 2026-05-30
 * ShadowDancer: <https://github.com/AlayaLab/ShadowDancer> ⭐ 142 | 🐛 1 | 📅 2026-07-31
 * Matrix-Game-3.5: <https://github.com/Riemann-Dynamics/Matrix-Game-3.5> ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2026-07-27
-* PhiZero: <https://github.com/yaoyao-jpg/PhiZero> ⭐ 105 | 🐛 1 | 📅 2026-07-30
+* PhiZero: <https://github.com/yaoyao-jpg/PhiZero> ⭐ 106 | 🐛 1 | 📅 2026-07-30
 * WorldWander: <https://github.com/showlab/WorldWander> ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2026-07-17
 * WorldWander: <https://github.com/showlab/WorldWander> ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2026-07-17
 * Wonder: <https://arxiv.org/pdf/2607.26037>
@@ -808,7 +808,7 @@
 
 #### 框架
 
-* stable-worldmodel: <https://github.com/galilai-group/stable-worldmodel> ⭐ 2,160 | 🐛 19 | 🌐 Python | 📅 2026-08-25
+* stable-worldmodel: <https://github.com/galilai-group/stable-worldmodel> ⭐ 2,161 | 🐛 19 | 🌐 Python | 📅 2026-08-25
 * OpenWorldLib: <https://github.com/OpenDCAI/OpenWorldLib> ⭐ 864 | 🐛 6 | 🌐 Python | 📅 2026-08-23
 * minWM: <https://github.com/shengshu-ai/minWM> ⭐ 802 | 🐛 11 | 🌐 Python | 📅 2026-06-15
 * nano-world-model: <https://github.com/simchowitzlabpublic/nano-world-model> ⭐ 719 | 🐛 6 | 🌐 Python | 📅 2026-06-15
@@ -820,7 +820,7 @@
 
 ## 龙虾 OpenClaw
 
-1. OpenHanako: <https://github.com/liliMozi/openhanako> ⭐ 6,390 | 🐛 978 | 🌐 TypeScript | 📅 2026-08-27
+1. OpenHanako: <https://github.com/liliMozi/openhanako> ⭐ 6,393 | 🐛 977 | 🌐 TypeScript | 📅 2026-08-27
 2. NEXU: <https://github.com/nexu-io/nexu> ⭐ 3,259 | 🐛 223 | 🌐 TypeScript | 📅 2026-04-26
 3. Qclaw: <https://github.com/qiuzhi2046/Qclaw> ⭐ 2,819 | 🐛 59 | 🌐 TypeScript | 📅 2026-04-30
 4. ClawManager: <https://github.com/Yuan-lab-LLM/ClawManager> ⭐ 1,899 | 🐛 20 | 🌐 Go | 📅 2026-08-28
@@ -835,7 +835,7 @@
 > 现在统一模型已经从`理解+生成`变成`理解+生成+编辑`
 
 * Janus：<https://github.com/deepseek-ai/Janus> ⭐ 17,761 | 🐛 180 | 🌐 Python | 📅 2025-02-01
-* VeOmni：<https://github.com/ByteDance-Seed/VeOmni> ⭐ 2,179 | 🐛 192 | 🌐 Python | 📅 2026-08-28 `Training`
+* VeOmni：<https://github.com/ByteDance-Seed/VeOmni> ⭐ 2,179 | 🐛 192 | 🌐 Python | 📅 2026-08-29 `Training`
 * Lance: <https://github.com/bytedance/Lance> ⭐ 1,331 | 🐛 17 | 🌐 Python | 📅 2026-07-14
 * Lumina-DiMOO：<https://github.com/Alpha-VLLM/Lumina-DiMOO> ⭐ 1,016 | 🐛 10 | 🌐 Python | 📅 2026-05-19
 * UniPic：<https://github.com/SkyworkAI/UniPic> ⭐ 873 | 🐛 26 | 🌐 Python | 📅 2026-07-13
@@ -919,13 +919,13 @@
 
 ## 书籍 Book
 
-1. [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch) ⭐ 103,947 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-26
-2. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents) ⭐ 75,392 | 🐛 182 | 🌐 Python | 📅 2026-08-18
-3. [《动手学大模型Dive into LLMs》](https://github.com/Lordog/dive-into-llms) ⭐ 50,402 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-10-10
-4. [《Hands-On Large Language Models》](https://github.com/handsOnLLM/Hands-On-Large-Language-Models) ⭐ 28,719 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
-5. [《大模型基础》](https://github.com/ZJU-LLMs/Foundations-of-LLMs) ⭐ 17,744 | 🐛 54 | 📅 2025-12-12
+1. [《Build a Large Language Model (From Scratch)》](https://github.com/rasbt/LLMs-from-scratch) ⭐ 103,962 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-26
+2. [《从零开始构建智能体》——从零开始的智能体原理与实践教程](https://github.com/datawhalechina/hello-agents) ⭐ 75,414 | 🐛 182 | 🌐 Python | 📅 2026-08-18
+3. [《动手学大模型Dive into LLMs》](https://github.com/Lordog/dive-into-llms) ⭐ 50,427 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-10-10
+4. [《Hands-On Large Language Models》](https://github.com/handsOnLLM/Hands-On-Large-Language-Models) ⭐ 28,724 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24
+5. [《大模型基础》](https://github.com/ZJU-LLMs/Foundations-of-LLMs) ⭐ 17,748 | 🐛 54 | 📅 2025-12-12
 6. [《The Smol Training Playbook: The Secrets to Building World-Class LLMs》](https://github.com/WangRongsheng/awesome-LLM-resources/blob/main/books/the-smol-training-playbook-the-secrets-to-building-world-class-llms.pdf) ⭐ 8,880 | 🐛 33 | 📅 2026-08-28
-7. [《Hands-On Modern RL》](https://github.com/walkinglabs/hands-on-modern-rl) ⭐ 4,140 | 🐛 10 | 🌐 Python | 📅 2026-08-28
+7. [《Hands-On Modern RL》](https://github.com/walkinglabs/hands-on-modern-rl) ⭐ 4,142 | 🐛 10 | 🌐 Python | 📅 2026-08-28
 8. [Textbook on reinforcement learning from human feedback](https://github.com/natolambert/rlhf-book) ⭐ 2,347 | 🐛 3 | 🌐 Python | 📅 2026-08-21
 9. [《多模态大模型》](https://github.com/HCPLab-SYSU/Book-of-MLM) ⭐ 317 | 🐛 0 | 🌐 HTML | 📅 2026-06-17
 10. [《大型语言模型实战指南：应用实践与场景落地》](https://github.com/liucongg/LLMsBook) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2024-09-13
@@ -951,22 +951,22 @@
 
 > [LLM Resources Hub](https://llmresourceshub.vercel.app/)
 
-1. [微软: Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 118,702 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-08-27
-2. [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 82,058 | 🐛 89 | 📅 2026-02-05
-3. [openai-cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,585 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2026-08-27: Examples and guides for using the OpenAI API.
-4. [NanoChat](https://github.com/karpathy/nanochat) ⭐ 57,598 | 🐛 111 | 🌐 Python | 📅 2026-08-02: The best ChatGPT that $100 can buy.
+1. [微软: Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 118,721 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-08-27
+2. [llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course) ⭐ 82,065 | 🐛 89 | 📅 2026-02-05
+3. [openai-cookbook](https://github.com/openai/openai-cookbook) ⭐ 75,595 | 🐛 294 | 🌐 Jupyter Notebook | 📅 2026-08-28: Examples and guides for using the OpenAI API.
+4. [NanoChat](https://github.com/karpathy/nanochat) ⭐ 57,606 | 🐛 111 | 🌐 Python | 📅 2026-08-02: The best ChatGPT that $100 can buy.
 5. [LLM101n](https://github.com/karpathy/LLM101n) ⚠️ Archived: Let's build a Storyteller.
-6. [RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,261 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-28: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+6. [RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,264 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-08-28: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 7. [Anthropics：Prompt Engineering Interactive Tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial/Anthropic%201P) ⭐ 22,718 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-08-28
 8. [LLMs Interview Note](https://github.com/wdndev/llm_interview_note) ⭐ 14,975 | 🐛 22 | 🌐 HTML | 📅 2026-06-14
-9. [LangGPT](https://github.com/langgptai/LangGPT) ⭐ 12,471 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16: Empowering everyone to become a prompt expert!
+9. [LangGPT](https://github.com/langgptai/LangGPT) ⭐ 12,473 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-07-16: Empowering everyone to become a prompt expert!
 10. [LLM技术科普](https://github.com/karminski/one-small-step) ⭐ 6,986 | 🐛 3 | 🌐 Python | 📅 2026-03-08
-11. [build nanoGPT](https://github.com/karpathy/build-nanogpt) ⭐ 5,465 | 🐛 35 | 🌐 Python | 📅 2024-08-13: Video+code lecture on building nanoGPT from scratch.
+11. [build nanoGPT](https://github.com/karpathy/build-nanogpt) ⭐ 5,466 | 🐛 35 | 🌐 Python | 📅 2024-08-13: Video+code lecture on building nanoGPT from scratch.
 12. [100+ LLM & RL Algorithm Maps | 原创 LLM / RL 100+原理图](https://github.com/changyeyu/LLM-RL-Visualized) ⭐ 4,825 | 🐛 3 | 🌐 Python | 📅 2026-07-27
 13. [LLMs From Scratch (Datawhale Version)](https://github.com/datawhalechina/llms-from-scratch-cn) ⭐ 4,338 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-03-26
 14. [Hands on llms](https://github.com/iusztinpaul/hands-on-llms) ⚠️ Archived: Learn about LLM, LLMOps, and vector DBS for free by designing, training, and deploying a real-time financial advisor LLM system.
 15. [mistralai-cookbook](https://github.com/mistralai/cookbook) ⭐ 2,319 | 🐛 68 | 🌐 Jupyter Notebook | 📅 2026-08-25
-16. [Smol Vision](https://github.com/merveenoyan/smol-vision) ⭐ 1,973 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-08-12: Recipes for shrinking, optimizing, customizing cutting edge vision models.
+16. [Smol Vision](https://github.com/merveenoyan/smol-vision) ⭐ 1,974 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-08-12: Recipes for shrinking, optimizing, customizing cutting edge vision models.
 17. [andysingal/llm-course](https://github.com/andysingal/llm-course) ⭐ 884 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-08-22
 18. [LLMsBook](https://github.com/liucongg/LLMsBook) ⭐ 91 | 🐛 3 | 🌐 Python | 📅 2024-09-13
 19. [斯坦福 CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
@@ -1015,7 +1015,7 @@
 
 ## 教程 Tutorial
 
-1. [LLM-Action](https://github.com/liguodongiot/llm-action) ⭐ 24,968 | 🐛 20 | 🌐 HTML | 📅 2026-07-19
+1. [LLM-Action](https://github.com/liguodongiot/llm-action) ⭐ 24,969 | 🐛 20 | 🌐 HTML | 📅 2026-07-19
 2. [AI-Guide-and-Demos](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) ⭐ 4,470 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 3. [How Much VRAM](https://github.com/AlexBodner/How_Much_VRAM) ⭐ 101 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-08-30
 4. [动手学大模型应用开发](https://datawhalechina.github.io/llm-universe/#/)
@@ -1062,8 +1062,8 @@
 > \[!NOTE]
 > 🤝[Huggingface Daily Papers](https://huggingface.co/papers)、[Cool Papers](https://papers.cool/)、[ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) ⭐ 8,596 | 🐛 3 | 📅 2025-06-30
 
-1. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,039 | 🐛 34 | 📅 2025-06-27
-2. [Qwen3 Technical Report](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf) ⭐ 27,565 | 🐛 66 | 🌐 Python | 📅 2026-01-09
+1. [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,037 | 🐛 34 | 📅 2025-06-27
+2. [Qwen3 Technical Report](https://github.com/QwenLM/Qwen3/blob/main/Qwen3_Technical_Report.pdf) ⭐ 27,566 | 🐛 66 | 🌐 Python | 📅 2026-01-09
 3. [Kimi K2 Technical Report](https://github.com/MoonshotAI/Kimi-K2/blob/main/tech_report.pdf) ⭐ 11,109 | 🐛 70 | 📅 2026-01-21
 4. [DeepSeek V3 Technical Report](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/DeepSeek_V3.pdf) ⭐ 8,880 | 🐛 33 | 📅 2026-08-28
 5. [KIMI K1.5](https://github.com/WangRongsheng/awesome-LLM-resourses/blob/main/docs/Kimi_k1.5.pdf) ⭐ 8,880 | 🐛 33 | 📅 2026-08-28
@@ -1147,13 +1147,13 @@
 
 MCP工具聚合：
 
-1. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,970 | 🐛 3,695 | 📅 2026-08-27
-2. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,933 | 🐛 548 | 🌐 TypeScript | 📅 2026-08-28
-3. [FastMCP](https://github.com/jlowin/fastmcp) ⭐ 27,422 | 🐛 291 | 🌐 Python | 📅 2026-08-28
+1. [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 93,008 | 🐛 3,710 | 📅 2026-08-27
+2. [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,940 | 🐛 506 | 🌐 TypeScript | 📅 2026-08-28
+3. [FastMCP](https://github.com/jlowin/fastmcp) ⭐ 27,427 | 🐛 292 | 🌐 Python | 📅 2026-08-28
 4. [FastAPI-MCP](https://github.com/tadata-org/fastapi_mcp) ⭐ 11,990 | 🐛 178 | 🌐 Python | 📅 2025-11-24
-5. [mcpo](https://github.com/open-webui/mcpo) ⭐ 4,357 | 🐛 51 | 🌐 Python | 📅 2026-05-17
-6. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) ⭐ 993 | 🐛 79 | 🌐 Python | 📅 2026-08-22
-7. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) ⭐ 881 | 🐛 244 | 📅 2026-03-11
+5. [mcpo](https://github.com/open-webui/mcpo) ⭐ 4,358 | 🐛 51 | 🌐 Python | 📅 2026-05-17
+6. [mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh) ⭐ 993 | 🐛 80 | 🌐 Python | 📅 2026-08-22
+7. [awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) ⭐ 881 | 🐛 245 | 📅 2026-03-11
 8. [smithery.ai](https://smithery.ai/)
 9. [mcp.so](https://mcp.so/)
 10. [mcp.ad](https://mcp.ad/)
@@ -1170,19 +1170,19 @@ MCP工具聚合：
 
 ## 技能 Skills
 
-1. [Anthropics Skills](https://github.com/anthropics/skills) ⭐ 172,236 | 🐛 1,184 | 🌐 Python | 📅 2026-08-21
+1. [Anthropics Skills](https://github.com/anthropics/skills) ⭐ 172,313 | 🐛 1,186 | 🌐 Python | 📅 2026-08-21
 
-2. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,800 | 🐛 1,343 | 🌐 Python | 📅 2026-08-10
+2. [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,826 | 🐛 1,346 | 🌐 Python | 📅 2026-08-10
 
-3. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,218 | 🐛 1 | 📅 2026-08-23
+3. [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,225 | 🐛 1 | 📅 2026-08-23
 
-4. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐ 36,161 | 🐛 13 | 🌐 Python | 📅 2026-08-24
+4. [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐ 36,802 | 🐛 16 | 🌐 Python | 📅 2026-08-28
 
-5. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 33,012 | 🐛 17 | 📅 2026-08-26
+5. [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 33,088 | 🐛 17 | 📅 2026-08-26
 
-6. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 10,063 | 🐛 117 | 📅 2026-08-02
+6. [awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 10,064 | 🐛 120 | 📅 2026-08-02
 
-7. [mmx-cli](https://github.com/MiniMax-AI/cli) ⭐ 2,076 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-28
+7. [mmx-cli](https://github.com/MiniMax-AI/cli) ⭐ 2,077 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-28
 
 8. [LabClaw](https://github.com/wu-yc/LabClaw) ⭐ 1,048 | 🐛 4 | 📅 2026-03-19
 
@@ -1226,21 +1226,21 @@ MCP工具聚合：
 4. <https://github.com/hijkzzz/Awesome-LLM-Strawberry> ⭐ 6,899 | 🐛 27 | 📅 2025-12-17
 5. <https://github.com/simplescaling/s1> ⭐ 6,665 | 🐛 76 | 🌐 Python | 📅 2025-06-25
 6. <https://github.com/om-ai-lab/VLM-R1> ⭐ 6,016 | 🐛 166 | 🌐 Python | 📅 2026-07-07
-7. <https://github.com/agentica-project/deepscaler> ⭐ 5,805 | 🐛 154 | 🌐 Python | 📅 2026-08-24
-8. <https://github.com/inclusionAI/AReaL> ⭐ 5,700 | 🐛 105 | 🌐 Python | 📅 2026-08-28
-9. <https://github.com/PeterGriffinJin/Search-R1> ⭐ 5,342 | 🐛 35 | 🌐 Python | 📅 2025-11-13
-10. <https://github.com/hiyouga/EasyR1> ⭐ 5,135 | 🐛 56 | 🌐 Python | 📅 2026-08-26
+7. <https://github.com/agentica-project/deepscaler> ⭐ 5,808 | 🐛 158 | 🌐 Python | 📅 2026-08-24
+8. <https://github.com/inclusionAI/AReaL> ⭐ 5,701 | 🐛 104 | 🌐 Python | 📅 2026-08-29
+9. <https://github.com/PeterGriffinJin/Search-R1> ⭐ 5,343 | 🐛 35 | 🌐 Python | 📅 2025-11-13
+10. <https://github.com/hiyouga/EasyR1> ⭐ 5,136 | 🐛 56 | 🌐 Python | 📅 2026-08-26
 11. <https://github.com/OpenManus/OpenManus-RL> ⭐ 4,155 | 🐛 27 | 🌐 Python | 📅 2026-05-05
 12. <https://github.com/Deep-Agent/R1-V> ⭐ 4,064 | 🐛 95 | 🌐 Python | 📅 2025-05-19
 13. <https://github.com/hkust-nlp/simpleRL-reason> ⭐ 3,874 | 🐛 34 | 🌐 Python | 📅 2025-12-23
 14. <https://github.com/hkust-nlp/simpleRL-reason> ⭐ 3,874 | 🐛 34 | 🌐 Python | 📅 2025-12-23
-15. <https://github.com/atfortes/Awesome-LLM-Reasoning> ⭐ 3,676 | 🐛 26 | 📅 2026-04-20
+15. <https://github.com/atfortes/Awesome-LLM-Reasoning> ⭐ 3,677 | 🐛 26 | 📅 2026-04-20
 16. <https://github.com/SkyworkAI/Skywork-R1V> ⭐ 3,168 | 🐛 36 | 🌐 Python | 📅 2026-07-29
 17. <https://github.com/ZihanWang314/RAGEN> ⭐ 2,779 | 🐛 29 | 🌐 Python | 📅 2026-08-23
 18. <https://github.com/RAGEN-AI/RAGEN> ⭐ 2,779 | 🐛 29 | 🌐 Python | 📅 2026-08-23
 19. <https://github.com/ninehills/blog/issues/121> ⭐ 2,708 | 🐛 34 | 🌐 SCSS | 📅 2026-06-07
 20. <https://github.com/Unakar/Logic-RL> ⭐ 2,446 | 🐛 13 | 🌐 Python | 📅 2025-03-20
-21. <https://github.com/open-thoughts/open-thoughts> ⭐ 2,325 | 🐛 6 | 🌐 Python | 📅 2025-12-02
+21. <https://github.com/open-thoughts/open-thoughts> ⭐ 2,326 | 🐛 6 | 🌐 Python | 📅 2025-12-02
 22. <https://github.com/XiaomiMiMo/MiMo> ⭐ 2,303 | 🐛 70 | 🌐 Python | 📅 2025-06-05
 23. <https://github.com/Liuziyu77/Visual-RFT> ⭐ 2,271 | 🐛 123 | 🌐 Jupyter Notebook | 📅 2025-10-29
 24. <https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero> ⭐ 2,099 | 🐛 21 | 🌐 Python | 📅 2025-06-02
@@ -1254,10 +1254,10 @@ MCP工具聚合：
 32. <https://github.com/Osilly/Vision-R1> ⭐ 1,572 | 🐛 3 | 🌐 Python | 📅 2026-03-20
 33. <https://github.com/OpenSource-O1/Open-O1> ⭐ 1,340 | 🐛 12 | 🌐 Python | 📅 2024-11-21
 34. <https://github.com/sail-sg/understand-r1-zero> ⭐ 1,274 | 🐛 7 | 🌐 Python | 📅 2025-08-27
-35. <https://github.com/MoonshotAI/Kimi-VL> ⭐ 1,225 | 🐛 40 | 📅 2025-07-15
+35. <https://github.com/MoonshotAI/Kimi-VL> ⭐ 1,226 | 🐛 40 | 📅 2025-07-15
 36. <https://github.com/srush/awesome-o1> ⭐ 1,215 | 🐛 5 | 🌐 TeX | 📅 2026-07-07
 37. <https://github.com/GAIR-NLP/LIMO> ⭐ 1,084 | 🐛 7 | 🌐 Python | 📅 2025-07-30
-38. <https://github.com/HumanMLLM/R1-Omni> ⭐ 1,024 | 🐛 34 | 🌐 Python | 📅 2025-03-24
+38. <https://github.com/HumanMLLM/R1-Omni> ⭐ 1,025 | 🐛 34 | 🌐 Python | 📅 2025-03-24
 39. <https://github.com/tulerfeng/Video-R1> ⭐ 887 | 🐛 55 | 🌐 Python | 📅 2025-12-14
 40. <https://github.com/open-thought/system-2-research> ⭐ 874 | 🐛 6 | 📅 2025-03-16
 41. <https://github.com/TideDra/lmm-r1> ⭐ 848 | 🐛 16 | 🌐 Python | 📅 2025-05-14
@@ -1371,9 +1371,9 @@ MCP工具聚合：
 
 ## 小语言模型 Small Language Model
 
-1. <https://github.com/jingyaogong/minimind> ⭐ 55,111 | 🐛 56 | 🌐 Python | 📅 2026-08-21
+1. <https://github.com/jingyaogong/minimind> ⭐ 55,119 | 🐛 56 | 🌐 Python | 📅 2026-08-21
 2. <https://github.com/jzhang38/TinyLlama> ⚠️ Archived
-3. <https://github.com/allenai/OLMo> ⭐ 6,652 | 🐛 83 | 🌐 Python | 📅 2025-11-24
+3. <https://github.com/allenai/OLMo> ⭐ 6,653 | 🐛 83 | 🌐 Python | 📅 2025-11-24
 4. <https://github.com/skyzh/tiny-llm> ⭐ 4,528 | 🐛 8 | 🌐 Python | 📅 2026-08-28
 5. <https://github.com/DLLXW/baby-llama2-chinese> ⭐ 2,922 | 🐛 43 | 🌐 Python | 📅 2026-08-13
 6. <https://github.com/qibin0506/Cortex> ⭐ 2,691 | 🐛 1 | 🌐 Python | 📅 2026-08-21
@@ -1394,7 +1394,7 @@ MCP工具聚合：
 21. <https://github.com/RUC-GSAI/YuLan-Mini> ⭐ 234 | 🐛 2 | 🌐 Python | 📅 2025-07-25
 22. <https://github.com/keeeeenw/MicroLlama> ⭐ 170 | 🐛 3 | 🌐 Python | 📅 2025-08-11
 23. <https://github.com/Alic-Li/Mini_RWKV_7> ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2026-01-26
-24. <https://github.com/vukrosic/glm-5.3-flash-from-scratch> ⭐ 17 | 🐛 0 | 🌐 HTML | 📅 2026-08-28
+24. <https://github.com/vukrosic/glm-5.3-flash-from-scratch> ⭐ 36 | 🐛 1 | 🌐 HTML | 📅 2026-08-28
 25. <https://github.com/loubnabnl/nanotron-smol-cluster> ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2024-08-26 ([使用Cosmopedia训练cosmo-1b](https://huggingface.co/blog/zh/cosmopedia))
 26. <https://github.com/leeguandong/MiniLLaMA3> ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2024-06-26
 27. <https://huggingface.co/Nanbeige/Nanbeige4-3B-Thinking-2511> `23T tokens预训练模型`
@@ -1405,12 +1405,12 @@ MCP工具聚合：
 
 ## 小多模态模型 Small Vision Language Model
 
-1. <https://github.com/GeeeekExplorer/nano-vllm> ⭐ 15,202 | 🐛 84 | 🌐 Python | 📅 2026-04-26
+1. <https://github.com/GeeeekExplorer/nano-vllm> ⭐ 15,205 | 🐛 84 | 🌐 Python | 📅 2026-04-26
 2. <https://github.com/jingyaogong/minimind-v> ⭐ 8,493 | 🐛 21 | 🌐 Python | 📅 2026-08-06
 3. <https://github.com/huggingface/nanoVLM> ⭐ 5,000 | 🐛 57 | 🌐 Python | 📅 2025-10-27
 4. <https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/train_llava> ⭐ 3,834 | 🐛 102 | 🌐 Jupyter Notebook | 📅 2025-08-05
-5. <https://github.com/jingyaogong/minimind-o> ⭐ 2,395 | 🐛 4 | 🌐 Python | 📅 2026-08-06
-6. <https://github.com/merveenoyan/smol-vision> ⭐ 1,973 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-08-12
+5. <https://github.com/jingyaogong/minimind-o> ⭐ 2,397 | 🐛 4 | 🌐 Python | 📅 2026-08-06
+6. <https://github.com/merveenoyan/smol-vision> ⭐ 1,974 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-08-12
 7. <https://github.com/TinyLLaVA/TinyLLaVA_Factory> ⭐ 1,003 | 🐛 115 | 🌐 Python | 📅 2026-07-23
 8. <https://github.com/Coobiw/MPP-LLaVA> ⭐ 686 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2025-03-10
 9. <https://github.com/Emericen/tiny-qwen> ⭐ 443 | 🐛 8 | 🌐 Python | 📅 2026-08-24
@@ -1427,8 +1427,8 @@ MCP工具聚合：
 
 ## 技巧 Tips
 
-1. [MiniMind](https://github.com/jingyaogong/minimind) ⭐ 55,111 | 🐛 56 | 🌐 Python | 📅 2026-08-21: 3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练.
-2. [Tiny LLM Universe](https://github.com/datawhalechina/tiny-universe) ⭐ 5,029 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-02-12
+1. [MiniMind](https://github.com/jingyaogong/minimind) ⭐ 55,119 | 🐛 56 | 🌐 Python | 📅 2026-08-21: 3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练.
+2. [Tiny LLM Universe](https://github.com/datawhalechina/tiny-universe) ⭐ 5,030 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-02-12
 3. [Tiny LLM zh](https://github.com/wdndev/tiny-llm-zh) ⭐ 1,076 | 🐛 16 | 🌐 Python | 📅 2024-08-22
 4. [LLM-Dojo 开源大模型学习场所，使用简洁且易阅读的代码构建模型训练框架](https://github.com/mst272/LLM-Dojo) ⭐ 939 | 🐛 6 | 🌐 Python | 📅 2026-03-08
 5. [MPP-LLaVA](https://github.com/Coobiw/MPP-LLaVA) ⭐ 686 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2025-03-10
@@ -1503,4 +1503,4 @@ MCP工具聚合：
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
